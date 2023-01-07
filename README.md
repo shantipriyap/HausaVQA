@@ -1,8 +1,6 @@
 # HausaVQA
 
-This repository contains baseline code for the Hausa Visual Question Answer (HausaVQA) dataset. 
-
-The use cases includes:
+This repository contains baseline code for the Hausa Visual Question Answer (HausaVQA) dataset, which is the first dataset suitable for VQA and multimodal research in Hausa language. The NLP use cases applied to HaVQA dataset include:
 
 * [Text-Only Machine Translation (T2T)](https://github.com/shantipriyap/HausaVQA/tree/main/T2T)
 * [Multimodal Machine Translation (MMT)](https://github.com/shantipriyap/HausaVQA/tree/main/MMT)
