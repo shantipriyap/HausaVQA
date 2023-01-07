@@ -4,7 +4,7 @@ This repository contains baseline code for the Hausa Visual Question Answer (Hau
 
 The use cases includes:
 
-* Text-Only Machine Translation (T2T)
+* Text-Only Machine Translation ([T2T](https://github.com/shantipriyap/HausaVQA/tree/main/T2T))
 * Multimodal Machine Translation (MMT)
 * Image Captioning (IC)
 * Question Answering (QA)
