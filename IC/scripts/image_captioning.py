@@ -44,7 +44,7 @@ for image in tqdm(os.listdir(folder_dir)):
     pixel_values = feature_extractor(im, return_tensors="pt").pixel_values.to(device)
 
     # autoregressively generate caption (uses greedy decoding by default)
-    #this uses beam_search=1
+    # this uses beam_search=1
     generated_ids = model.generate(pixel_values)
     generated_text = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
