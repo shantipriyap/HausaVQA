@@ -60,7 +60,7 @@ for image in tqdm(os.listdir(folder_dir)):
 #write dict to csv file 
 header = ['image_id', 'caption']
 
-with open('image_captions.csv', 'a', encoding = 'UTF8') as fp:
+with open('../dataset/image_captions.csv', 'a', encoding = 'UTF8') as fp:
   writer = csv.writer(fp)
 
   writer.writerow(header)
