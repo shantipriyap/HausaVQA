@@ -1,0 +1,1204 @@
+570,2368125,What is on the flag pole?,Menene a kan ƙarfen tuta?
+7415,2407162,Black and white.,Baƙi da fari.
+2364,2337425,What are the color of the giraffe's eyes?,Menene launin idon raƙumin dawan?
+463,2328500,1,1
+6530,2387978,What color are the tower bricks?,Menene launin tubalin tower?
+4916,2330414,What color are the flowers?,Mene launin furanni?
+6900,2390299,What is this food?,Wanne abinci ne?
+726,2401216,A hill.,Tudu.
+1927,2408923,How many newspapers are on the table?,Jaridu nawa ne akan tebur din?
+3195,2323563,Light Blue.,Shuɗi mai haske.
+4385,2388311,Tennis racket.,Raket ɗin tanis.
+7684,2368617,Front of a window.,A gaban tagar.
+4852,2330984,What is parked outside?,Me akayi fakin a waje?
+464,2317544,Stone.,Dutse.
+5315,2400093,Where is the pot?,Ina tukunya?
+172,2389352,Daytime.,Da rana.
+2459,2339745,Orange and white.,Ruwan lemo da fari.
+7608,2410531,What is court made of?,Da me akayi filin?
+511,2388459,Blue sky without clouds.,Shuɗin sama marar gajimare.
+710,2320720,Who is in the picture?,Waye a cikin hoton?
+5116,2358683,What is behind the stove?,Menene a bayan murhun?
+2565,2402704,Where are the hanging pictures?,Ina ratayayyun hotunan?
+7011,2332102,Daytime.,Da rana.
+28,2407651,"What, predominantly, is the material used for the items furnishing this room?","Menene, galibi, abun da akayi amfani na sanya kayan ɗakin ɗakinnan?"
+7672,2324913,What food tops the dish in the foreground?,Wani abinci ne a saman haɗin abincin a gaban?
+6558,2401685,Who is wearing the yellow coat?,Wake sanye rawayar riga?
+4528,2330414,What is the horse doing?,Me dokin yake yi?
+718,2370142,Who is holding the tennis ball?,Wanene yake riƙe da ƙwallon tanis?
+4961,2343858,On the ceiling.,Sun kan rufi.
+5180,2319271,What color is the grass?,Menene launin ciyawar.
+3374,2328159,Blue.,Shuɗi.
+2396,2331786,Who is in the photo?,Waye a jikin hotan?
+1968,2337764,How many trains are there?,Jirgin ƙasa guda nawa ne a wurin?
+7721,2316928,What color is the water?,Mene launin ruwan?
+5123,2417450,Daytime.,Da rana.
+4629,2398882,What is the man touching?,Me mutumin yake taɓawa?
+1776,2324464,Black.,Baƙi.
+1360,2358093,Candles.,Kyandir.
+6722,2370667,Dog.,Kare.
+7332,2319358,Yellow.,Rawaya.
+1772,2408245,What is woman doing?,Me matar takeyi?
+2041,2395542,What is the bear doing?,Me biya ɗin take yi?
+4277,2344159,What is the girl holding?,Me yarinyar ke riƙe dashi?
+141,2384817,What color is the plane?,Menene launin jirgin saman?
+1552,2386740,Where are the leaves?,Ina ganyeyyakin?
+1778,2394993,With tile.,Da tayal.
+480,2349358,Brown.,Ruwan ƙasa.
+2082,2328681,Conductor.,Madugu.
+5562,2381990,What color is the table?,Mene launin tebur din?
+6110,2416233,What color is the dog?,Wani launi ne da karen?
+6007,2360697,What shade of color is the plate?,Wanne irin launin faranti ne?
+3535,2338417,How many clocks are there?,Nawa ne adadin agoguna a gurin?
+5939,2366577,Where are the legs?,Ina ƙafafun.
+3306,2349089,Light blue.,Shuɗi mai haske.
+882,2320720,To get away from a fire.,Dan yayi nesa daga wuta.
+2314,2415153,Where are the trees?,Ina bishiyun suke?
+3760,2356589,How many maps of london are there?,Taswirar london guda nawa ne a wurin?
+2331,2396861,A black shirt and black pants.,Baƙar riga da baƙin wando.
+7372,2346276,How many people in the photo?,Mutane nawa ne a hoton?
+684,2407883,1,1
+2545,2416677,Zigzag.,Zigzag.
+2239,2367716,What is the total of kites?,Jirgin leda nawa ne duka?
+2403,2327260,Upward.,Sama.
+7134,2338734,Daytime.,Da rana.
+2267,2325682,To see.,Ya gani.
+773,2353273,In a city.,A cikin birni.
+3269,2324817,What is the name of the street in the photo?,Yaya sunan titin a hoton?
+2084,2395907,Bricks.,Bulo.
+5256,2323309,What are the people doing?,Me mutanan suke?
+6522,2357217,What is the airplane's main color?,Mene ne ainihi launin jikin jirgin saman?
+2278,2394080,In the wall.,A jikin bangon.
+211,2321185,Horses and a bird.,Dawakai da tsuntsu.
+3344,2388340,What is on the top of the meal?,menene akan saman abincin?
+4734,2344002,Napkins.,Napkins.
+4397,2401365,Who is in the picture?,Waye a jikin hoton?
+586,2345094,What are they doing?,Me sukeyi?
+644,2332403,On the woman's face.,A fuskar matar.
+2264,2363303,During the afternoon.,Da rana.
+3620,2344748,The towel.,Tawul.
+268,2359510,Grass.,Ciyawa.
+7222,2380626,Bird.,Tsuntsuwa.
+3962,2321004,Everyday.,Kullin.
+7341,2331263,Sheep.,Tumaki.
+2178,2331786,What facial expression is she making?,Me take yi a fuskarta?
+3105,2331152,How many beds are there?,Nawane adadin gadaje a gurin?
+4345,2337103,Night time.,Da dare.
+6953,2332221,How many umbrellas?,Lema nawa ne?
+1606,2348407,How many dogs are in the picture?,Karnuka nawa ne a hoton?
+3968,2355677,What are the horses eating?,Me dawakan suke ci?
+1323,2388937,Hat.,Hula.
+7791,2354144,On the street.,A kan titi.
+492,2372150,What is the cat looking at?,Me magen take kallo?
+14,2340094,What color is the ground?,Menene launin ƙasan?
+5757,2382461,What is on the ground?,Menene a ƙasa?
+6119,2377924,A umbrella.,Lema.
+7019,2404093,Green.,Koraye.
+2323,2332363,Silver.,Ruwan azurfa.
+3729,2373240,Who is in the water?,Waye a cikin ruwan?
+5634,2369958,What kind of a sky is this?,Wani irin sararin sama ne wannan?
+1918,2386514,Brown.,Ruwan kasa.
+2646,2316160,Brown.,Ruwan ƙasa.
+3584,2388461,What can be seen in the distance?,Me ake iya gani a nesa?
+679,2368636,The green frame.,Koren firam ɗin.
+4473,2382154,Where is the picture taken?,A ina aka ɗauki hoton?
+2699,2317342,What is on his hands?,Menene a hannunsa?
+5681,2404890,What is the color of the front train?,Menene launin jirgin ƙasana gaban?
+5210,2339296,Afternoon.,Da yamma.
+4900,2404946,The train yard.,A hanyar jirgin ƙasa.
+3488,2399898,What is the weather conditions?,Yaya yanayin yake?
+1612,2321229,A branch.,Reshe.
+6,2392682,Playing frisbee.,Yin wasan frisbee.
+2847,2389358,What is on the ground?,Menene a ƙasa?
+111,2360727,A woman.,Mata.
+7208,2410331,Brown.,Ruwan ƙasa.
+1551,2375873,What is the peels' color?,Menene launin ɓawon?
+7681,2338114,What is in the background of the picture?,Menene a bayan hoton?
+7085,2385611,Where is the cat lying?,Ina magen ke kwance ?
+6791,2405608,What is on the lower left of the photo?,Mene a ƙasan hadun hoton?
+6369,2371973,What is the color of the grass?,Mene launin ciyawar?
+3764,2363167,Tie.,Ɗanmarar wuya.
+4122,2355466,What is the woman holding in her right hand?,Mene ne matar ke riƙe dashi a hannun ta na dama?
+4829,2351804,Daytime.,Da rana.
+5777,2391075,During the daytime.,Da rana.
+5832,2363386,Who is in the chair?,Waye a kujerar?
+5357,2372746,Day time.,Da rana
+2202,2408059,What color is the paper?,Menene launin takardar?
+1763,2404964,Who is eating the hot dog?,Waye yake cin hot dog din?
+3076,2365439,Smoke bombs are let off.,Bam ɗin hayaƙi aka bari.
+5136,2360241,White with grayish blue stripes.,Fari da zanen ruwan toka.
+3529,2342023,2,2
+179,2333753,Green.,Kore.
+5546,2370299,A hat.,Hula.
+4542,2332687,What does the sign say?,Me aka ce a jikin alamar?
+7452,2406459,What is the lady on?,Me matar take kai?
+2705,2395604,What is on the men's faces?,Menene a kan fuskokin mazan?
+3221,2345291,How is the water?,Yaya ruwan yake?
+4835,2407360,Where is the fork?,Ina cokali mai yatsu yake?
+6594,2361427,What size of pizza?,Ya girman fizar?
+5537,2350092,People.,Mutane.
+1275,2362132,What is this little girl looking at?,Me ƙaramar yarinyar take kallo?
+3506,2322250,Net.,Raga.
+1909,2373825,What room is this in?,A wanne dakin wannan yake?
+7677,2365624,How many cows in the fence?,Nawane adadin saniyoyi a cikin shingen?
+4039,2318061,What color are the window frames?,Menene launin firam din tagar?
+7639,2334471,Kite.,Jirgin keda.
+672,2322510,What is in the photograph?,Menene a jikin hoton?
+5182,2318278,6456,6456
+4631,2342612,Three.,Uku.
+7214,2401317,When will the car near the crosswalk be gone?,Yaushe motar da ke kusa wurin tafiya zata tafi?
+4871,2366953,Standing around.,Suna tsaye.
+6639,2361917,What is the area around the doughnuts made of?,Da me akayi gurin da ya zagaye doughnuts ɗin?
+6349,2339853,One.,Ɗaya.
+681,2364139,Where are the white lines?,Ina fararen layukan?
+7228,2346276,Surfing.,Hawa igiyar ruwa .
+2550,2316259,When hungry.,Idan suna jin yunwa.
+6704,2394499,Laid down.,Kwance a ƙasa.
+23,2328500,Where is the boat?,Ina jirgin ruwan?
+5253,2414008,Boat.,Kwalekwale.
+6788,2360918,What color is the bus?,Wanne launin ne jikin motar bas din
+182,2318831,In a field.,A cikin fili.
+608,2376244,Where are the green leaves?,Ina korayen ganyanyakin?
+114,2400596,Black.,Baƙi.
+4278,2344159,The girl.,Yarinyar.
+4620,2382905,When was this image taken?,Yaushe aka ɗauki hoton?
+495,2346516,What are the people eating?,Me mutanen suke ci?
+465,2415316,Black.,Baƙi.
+6031,2404836,What is the sitting man wearing?,Me mutumin dake zaune yake sanye dashi?
+5437,2348708,1,Ɗaya.
+6817,2401712,A set of horns.,Saitin ƙahoni.
+4563,2384780,What kind of pants is the man wearing?,Wanne irin wando mutumin yake saneye dashi?
+3328,2334728,White.,Fari.
+4352,2396312,Where is the truck located?,A ina babbar motar take?
+3324,2331959,On shore.,Kan gaɓa ruwa.
+7700,2372344,Where are the parked cars?,Ina ajiyayyun motocin?
+740,2414163,Walking.,Tafiya.
+7530,2392528,Hat.,Hula.
+7221,2380626,Grazing.,Kiwo.
+6328,2403065,How is the sky?,Yaya sararin samaniya yake
+6770,2414610,Blue and yellow.,Shuɗi da rawaya.
+4744,2330984,What is on the building?,Menene akan ginin?
+438,2316490,How many cats?,Nawane adadin maguna?
+7495,2338114,Trees.,Bishiyu.
+3991,2360682,What is the plane color?,Menene launin jirgin saman?
+6109,2380059,Toasted.,Gasasshe.
+3738,2355594,Bench.,benci.
+3187,2348000,How stickers are on laptop?,Yaya stickers a kan kwamfutar tafi da gidan ka?
+3744,2385778,On the table.,akan tebur.
+2327,2377491,Purse.,Ƙaramar jaka.
+3045,2365090,Playing.,Wasa.
+6149,2390724,Red stripes.,Jajayen ratsi.
+6684,2353308,Two.,Biyu.
+3443,2323563,Bicycles.,Keke
+5149,2409141,Green.,Kore.
+1806,2333198,At the camera.,Ga kamarar.
+5756,2404890,How many trains?,Jingin kasn guda nawane?
+4581,2353110,Who is in the photo?,Waye a hoton nan?
+692,2335243,Where is the chair?,Ina kujerar?
+4009,2351231,Who is pictured?,Wa akai wa hoto?
+1676,2335893,How many buses are shown?,Motocin bas nawa aka nuna?
+2089,2353347,They are watching the baseball game.,Suna kallon wasan baseball.
+4620,2382905,During the day.,Da rana.
+65,2364944,Wall.,Bango.
+5593,2359662,What is surrounding the airplane?,Mene zagaye da jirgin sama?
+613,2416825,When was this picture taken?,Yaushe aka ɗauki wannan hoton?
+2578,2316259,What is the main color of the grass?,Menene ainahin launin ciyawar?
+2833,2366013,What kind of day is it?,Wacce irin rana ce wannan?
+3667,2412651,What color are the benches?,Wana launi ne bencin?
+171,2389352,What is reflected on the ground?,Menene ya nuna a ƙasa?
+3492,2329989,Who is in the photo?,Wanene a hoton?
+1953,2353521,0,0
+226,2370992,Where is the wood surface?,Ina saman katakon?
+2285,2377342,Blue.,Shuɗi.
+265,2335797,Who is holding the remote?,Waye riƙe da masarrafan tazara?
+46,2338059,Who is blending?,Wanene yake markaɗe?
+631,2382680,What is standing by the lake?,Menene yake tsaye a bakin tafki?
+1722,2390460,It's an overview photo.,Hoton ta sama yake.
+1619,2346120,What is between the pizza and the paddle?,Mene ne tsakanin fizza da kwanan katakon?
+1003,2377589,When is this?,Yaushene nan?
+4625,2378699,What color are the trees?,Mene launin bishiyoyi?
+6693,2409343,What color is the runway?,Mene launin titin jirgin saman?
+7078,2323919,Two.,Biyu.
+1973,2351203,What is eating the oranges?,Menene yake cin leman?
+160,2374167,Formal.,Na al'ada.
+7479,2393344,How many elephants are facing the camera?,Giwaye nawa ke kallon kamera?
+1546,2385577,What are the green veggies?,Menene koren kayan lambun?
+1419,2388680,Ovate.,Kamar ƙwai.
+241,2335177,What is the man using?,Me mutumin yake amfani dashi?
+3441,2331152,White.,Fari.
+3036,2370911,What is on the side of train?,Menene a gefen jirgin ƙasa?
+201,2400498,What is the wall made of?,Dame akayi bangon?
+4164,2357395,The water.,A Ruwa.
+6952,2412517,A window with a closed curtain.,Taga da rufaffen labule.
+6729,2371578,What color are the cow's legs?,Mene launin kafar sa?
+7377,2363080,White.,Fari.
+4162,2319649,Bananas.,Ayaba.
+549,2323851,How many people are in this picture?,Nawa ne adadin mutane a cikin wannan hoton?
+1579,2339938,Where is the skateboard?,Ina allon sulu mai tayan?
+603,2329560,Green.,Kore.
+4930,2327740,Outside on a busy street corner.,A waje a kan kwanar titi mai jama'a.
+3565,2385895,Black.,Baƙi.
+7084,2412490,People.,Mutane.
+3493,2327263,A city street.,A titin birni.
+7453,2398813,Where are the shadows?,Ina inuwar?
+1871,2348407,When was this picture taken?,Da yaushe aka dauki wannan hoton?
+4292,2393964,Plane.,Jirgin sama.
+6940,2393112,Where is the clock tower?,Ina agogon hasumiya?
+6568,2345905,When is the photograph taken?,A yaushe aka ɗauki hoton?
+926,2337132,Where is this shot?,A ina aka ɗauki wannan?
+5031,2398225,What color is the sky?,Mene launin sararin samaniya?
+5593,2359662,People.,Mutane.
+5726,2376284,Near the trees.,Kusa da bishuyin.
+431,2372150,Where is the keyboard?,Ina masarrafin kwamfutar?
+903,2319313,During the day.,Da rana.
+3462,2336865,Barbed wire.,Waya mai ƙayoyi.
+2595,2390714,Surfboard.,Abin hawa igiyar ruwa.
+6011,2409343,What does the plane say?,Me aka rubuta a jikin jirgin saman?
+2850,2396267,Red.,Ja.
+975,2329587,What is green?,Menene kore?
+917,2410448,What color are the glasses?,Menene launin gilashin?
+5895,2390397,The headboard.,Fuskar gado.
+1388,2388837,What kind of donut is on the plate?,Wana irin donut ne a farantin?
+840,2398411,What are the men in orange shirts holding?,Me maza masu riga ruwan lemo suka riƙe?
+853,2410448,Buffet.,Buffet.
+663,2407619,What color is the writing on the side of the red bus?,Menene launin rubutun dake  gefen jar bas?
+2740,2341227,What color is the sidewalk?,Menene launin gefen wurin tafiyar?
+5074,2333465,Why is a piece of sandwich missing?,Meyasa babu wani bangare na sandwic din?
+2604,2317309,Black.,Baƙa.
+113,2400596,What is in the bowl?,Menene a cikin tasan?
+6489,2417707,Why is the person's hand up?,Meyasa mutumin ya daga hannun sa sama?
+7655,2332982,When was this image taken?,Yaushe aka ɗauka wannan hoton?
+2213,2414799,What color are the woman's boots?,Menene launin sinke din matar?
+6898,2332221,The sun.,Saboda rana.
+6018,2393819,What is in the park?,Mene ne lambun?
+6843,2342608,Blue.,Shuɗi.
+7224,2381594,Two.,Biyu.
+7848,2402203,Where are the street signs?,Ina alamar titi?
+654,2360987,What is white in color?,Menene mai fari a launi?
+596,2368181,Trees.,Bishiyoyi.
+2717,2353674,Spots.,ɗugo ɗugo.
+701,2318585,What color is the sink?,Menene launin sink ɗin?
+4846,2385972,Two.,Biyu
+5081,2336925,Pillows.,Matashin kai?
+4871,2366953,What are the animals doing?,Mene ne dabbobi suke yi?
+635,2335243,During the day.,Da rana.
+2116,2349058,7,7
+4369,2338073,Green.,Koriya.
+1934,2388498,What color is the sign?,Wani launi ne alamar?
+5291,2350766,What is the boy doing?,Me yaron yake yi?
+5166,2385283,Trees.,Bishiyu.
+4155,2411542,White.,Fari.
+100,2318831,Two.,Biyu.
+4148,2411542,What's the color of the grass?,Mene ne launin ciyawar?
+3174,2389022,What is the barrel made of?,Da me akayi gangar?
+2508,2406272,What color are the door handles?,Menene launin hannun ƙofar?
+2105,2374937,What is on the stove?,Menene a kan murhun?
+2452,2374728,Round.,Zagaye.
+4826,2407019,Another building.,Wani ginin.
+3300,2368497,W wall.,Bangon W.
+2446,2414507,The boy standing with his skateboard.,Yaron da yake tsaye da sikebod din.
+6686,2372365,What color is the man's sweater?,Mene launin rigar sanyin mutumin?
+2675,2417150,What is this?,Menene wannan?
+4762,2326148,What color is the wall?,Menene launin bangon?
+3783,2396733,Two.,Biyu.
+2436,2380505,1,1
+2268,2349058,What color is the wall?,Menene launin bangon?
+1048,2396656,A tie.,Ɗamarar wuya.
+7079,2378419,Nobody.,Ba kowa.
+2834,2366013,Kites.,Jirgin leda.
+3425,2400445,What color is the horse?,Menene launin dokin?
+5838,2414037,On the bed.,Akan gadon.
+1982,2409213,Tablecloths.,Tufafin tebur.
+4755,2347354,On the table.,Akan tebur.
+880,2359980,Behind the chair.,A bayan kujeran.
+632,2401216,Mountains.,Tudu.
+516,2323851,Black.,Baƙi.
+3459,2324363,Where is the motorcycle?,Ina babur ɗin?
+2367,2380505,Where are the people?,Ina mutanen suke?
+5183,2397051,No one.,Ba kowa.
+3500,2408450,Where was this photo taken?,A ina aka ɗauki wannan hoton?
+996,2325104,What color shirt is the tennis player wearing?,Wani launin riga ɗan wasan tanis ɗin yake sake dashi?
+3207,2320169,Where are the zebras?,Ina jakunan dawan?
+1041,2363784,Three.,Uku.
+1699,2333198,Daytime.,Da rana.
+7212,2323919,What color is the dirt?,Menene launin ƙasar?
+828,2368125,Water.,Ruwa.
+4756,2366953,Where is the two small brown cows looking at?,Ina ƙananun shanun biyu suke kallo?
+1624,2386514,What color is the fence?,Wana launi ce shingen?
+5158,2347936,White.,Fari.
+1686,2315926,How is the weather?,Yaya yanayin?
+1706,2386676,Tell time.,Fadan lokaci.
+4149,2358468,Who is sitting on the bench?,Wake zaune a kan bencin?
+3603,2408450,Who is in the picture?,Waye a cikin hoton?
+1731,2360055,Where is a yellow wall?,Ina bangon me launin rawaya yake?
+938,2386905,Checker.,Mai gidan dara.
+5324,2329507,At the lake.,A tafki.
+387,2410990,What is sticking out of the ground?,Menene yake tsaye akan ƙasa?
+1839,2375027,During daytime.,da rana.
+552,2371631,Between the statue.,A tsakanin gunki.
+2070,2401070,What one color are the leaves on the trees?,Wani launi ɗaya ne ganyen kan bishiyar?
+2866,2414854,Super long.,Tsayi sosai.
+5202,2410519,Wood.,Da katako.
+4834,2380308,Pink.,Ruwan hoda.
+3809,2321587,Where are the tennis rackets?,Ina raket ɗin tanis ɗin?
+4133,2338073,White.,Fari.
+400,2332193,None.,Babu.
+4872,2391518,Where is the word chocolate written?,A ina ka rubuta kalmar cakulat?
+6904,2315483,Daytime.,Da rana.
+4857,2354543,Away.,Daga nan.
+7298,2386251,How many people are on the bicycle?,Mutane nawa ne a kan keke?
+2557,2413338,A tennis racket.,Raket ɗin tanis.
+7166,2374316,What is on the feet of the baby?,Mene ne a ƙafar jaririn?
+4070,2402446,What is the main color of the bird?,Menene ainahin launin tsuntsun?
+5200,2336324,Blue and green.,Shuɗi da kore.
+1955,2386740,Red.,Ja.
+4431,2361118,"Clean, red and green.","A bayyane, ja da kore."
+5524,2385283,What color are the person's pants?,Mene launin wandon mutumin.
+6795,2407228,What is on the river water?,Mene a cikin ruwan kogin?
+5236,2395374,Buildings.,Gine-gine.
+7132,2345970,A bird.,Tsuntsu.
+5100,2354781,Stains.,Tabo.
+3145,2357967,Near tracks.,Kusa da titin jirgin ƙasa.
+3146,2387790,Helmet.,Hular kwano.
+4356,2325788,How many cows are there?,Nawa ne adadin shanu a gurin?
+5487,2371178,What is next to the road?,Mene kusa da titi?
+183,2401010,Brown.,Ruwan ƙasa.
+6815,2323235,Looking at her phone.,Kallon wayar salular ta.
+4323,2325931,In the city.,A cikin gari.
+7844,2316928,Daytime.,Da rana.
+3725,2372099,What is the man riding on?,Me mutumin yake tukawa?
+5285,2370620,A trash can.,Kwandon zuba shara.
+6701,2405644,What color is the water?,Mene ne launin ruwan?
+2567,2336518,How many children are there?,Nawa ne adadin yara a gurin?
+3200,2405411,1,1
+4,2365369,Why is the ground white?,Meyasa ƙasan yayi fari?
+3104,2376792,White.,Fari.
+1702,2416971,Where was the picture taken?,A ina aka dauki hoton?
+2102,2362266,Stair railing.,Hannun bene.
+3605,2328161,Yellow.,rawaya.
+4007,2346365,How many people are clearly visible?,Mutane nawa ake iya gani sosai?
+1706,2386676,What does the clock do?,Me agogon yakeyi?
+41,2370799,Water.,Ruwa.
+5703,2349711,What is to the left of the train?,Mene ne a hannun hagun jirgin ƙasan
+6056,2411204,1,Ɗaya.
+488,2390993,How is the man controlling the horse?,Yaya mutumin yake sarrafa dokin?
+7281,2341544,Blue.,Shuɗi.
+2599,2402704,What color is the chair?,Menene launin kujerar?
+261,2391656,The girl.,Yarinyar.
+3273,2327263,A fronut.,fronut.
+1727,2334356,Night time.,Da dare.
+2691,2348828,Now.,Yanzu.
+1829,2412284,Black.,Baƙi.
+2538,2359200,The man.,Mutumin.
+1952,2393677,Where is this scene?,Ina yanayin yake?
+3915,2339180,Where are the people located?,A ina mutanan suke?
+1639,2407575,What is the bird standing on?,Akan me tsuntsun yake tsaye?
+4608,2366233,What does this type of truck carry?,Me irin wannan motar ke ɗauka?
+668,2382006,What kind of transportation vehicle is in the photo?,Wani irin abin hawan safara ne a cikin hoton?
+2112,2343260,Brown.,Ruwan ƙasa.
+6468,2347694,51590,51590
+3479,2370908,What is under the train?,Menene a ƙasan jirgin ƙasan?
+6104,2362072,What is the number of people in the photo?,Menene adadin mutane a cikin hoton?
+3440,2363132,What is the large metal object?,Menene wannan katan karfan?
+2047,2398422,What kind of buildings are behind the bus?,Wasu irin gine-gine ne a bayan bas ɗin?
+3178,2343526,What color is the surfboard?,Menene launin allon hawan igiyar ruwan?
+2808,2384006,When is the picture taken?,Yaushe aka ɗauka wannan hoton?
+991,2400262,Where are the trees?,Ina bishiyoyin?
+1446,2356325,In motion.,Yana motsi.
+1010,2407935,Glasses.,Tabarau.
+3541,2397980,What is the man holding in the left hand?,Me mutumin yake riƙe da a hannun sa na hagu?
+3308,2343935,Who is wearing sunglasses?,Wanene sanye da tabarau?
+3561,2359860,When was this picture taken?,Yaushe aka ɗauka hoton?
+5307,2355981,The boarder.,Na kan katako.
+6230,2323147,Why is the ground wet?,Meyasa ƙasan ya jike?
+4554,2365928,How many elephants are there?,Giwaye nawa ne a na?
+2368,2344851,London.,Landan
+2529,2415522,What is behind the horse?,Menene a bayan dokin?
+4109,2382868,One.,Ɗaya.
+5439,2318616,White.,Fari.
+7181,2341119,What kind of room is this?,Wanne irin  daki ne wannan?
+2376,2408100,How many cars?,Motoci nawa ne?
+1964,2373825,What is the reflective surface?,Me yake sheƙi?
+236,2316490,Who took the picture?,Waye ya ɗauka hoton?
+4110,2327233,One.,Ɗaya.
+120,2370863,What is black at the rear end of the bicycle?,Menene baƙi a ƙarshen bayan keken?
+5733,2343352,Wood.,Katako.
+6911,2325217,A horse.,Doki
+1674,2375873,How many flowers are in the photo?,Furrai nawa ne a hoton?
+1003,2377589,Daytime.,Da rana.
+5047,2335574,What covers the back of the picture?,Me ya rufe bayan hoton?
+6400,2373768,A coffee cup.,Moɗa kafe.
+5077,2341945,What color are the shirts?,Mene launin rigunan?
+2891,2388762,What animals are in the distance?,Wasu dabbobi ne a nesa?
+3289,2393015,Towel.,Tawul.
+3600,2385037,What color are the man's gloves?,Menene launin safar hannun mutumin?
+2492,2381252,Pole.,Pol.
+1822,2402465,Green.,Kore.
+477,2370799,On the bikers' heads.,A kan matuƙan.
+5637,2354975,What is in the middle of the centerpiece?,Menene a tsakiyar abun tsakiyar?
+238,2393970,A man wearing a visor and knee-high shorts.,Mutumi sanye da abin kare fuska da guntun wandon saman gwiwa.
+3542,2356034,Tennis racket.,abun yin wasan tanis.
+6654,2399016,After the apple was cut.,Bayan an yanka tufa.
+5554,2415249,What is the girl doing?,Me yarinyar ke yi?
+3163,2392818,Where does the scene take place?,A ina yanayin ya faru?
+4269,2407177,Daytime.,Da rana.
+7382,2344252,How many toilets are there?,Masai nawa ne a nan?
+6804,2370651,When was the game played?,A yaushe akayi wasan?
+4173,2391963,What is on the track?,Meke kan hanyar?
+415,2410990,To the right.,Izuwa dama.
+1179,2367897,"Where is ""W"" written?","A ina aka rubuta ""W""?"
+5759,2378098,Daytime.,da rana.
+2786,2402704,What is the black furniture in front of the chair?,Menene baƙin kayan ɗaki a gaban kujerar?
+995,2325104,Where was this photo taken?,A ina aka ɗauki wannan hoton?
+5066,2323309,To the right.,Hannu dama.
+935,2362823,Croissant \.,Croissant\.
+4399,2401437,What is in the circled cage?,Menene a cikin keji mai zagaye?
+5680,2372871,Wedge.,Takalmi mai tudu.
+2745,2416677,What cat is in the sunlight?,Wace magen ce a cikin rana?
+3995,2341044,How many animals are there?,Dabbobi nawa ne a wurin?
+2626,2367008,One.,Ɗaya.
+269,2392791,At at table.,A gurin tebur.
+2043,2377890,A tree.,Bishiya.
+70,2382724,Black.,Baƙi.
+3875,2396522,How is the weather?,Yaya yanayin?
+388,2341904,How many trains?,Jiragen ƙasa nawa?
+242,2385206,Where is the street sign?,Ina alamar titin?
+95,2395647,What can the people use to lean on?,Da me mutanen zasu iya amfani su jingina?
+5930,2316952,Day time.,Da rana.
+3359,2400445,Jumping.,Tsalle.
+503,2403313,What are the boys sitting on?,Akan me mazan suke zaune?
+6147,2398981,Where is the picture taken?,A ina aka ɗauka hoton?
+5401,2359104,Where are the cows standing?,Ina shanu ke tsaye?
+376,2326635,They are held up by the railing.,Suna jingine da shingen ƙarfen
+1670,2331905,Busses.,Motocin bas.
+2153,2378710,In a restaurant.,A gurin cin abinci.
+353,2335099,1,1
+6349,2339853,How many potatoes are there?,Dankalin turawa nawa ne a nan?
+2553,2413005,What is animal doing?,Me dabbar takeyi?
+4843,2388603,Carrots.,Karas.
+1868,2393677,Smart phones.,wayoyin hannu na zamani.
+5330,2320382,Daytime.,Da rana.
+5560,2384135,One.,Ɗaya.
+7694,2359279,White.,Fari.
+3109,2393878,A skateboard.,Allon sulu mai taya.
+1937,2362311,White cat.,Farar kyanwa.
+2335,2324218,On his hand.,A hannun shi.
+6975,2408925,Why is the cat eating?,Meyasa mage ke cin abinci?
+3209,2407231,How many animals are pictured?,Nawa ne adadin dabbobi a hoton?
+5782,2383481,None.,Babu.
+2819,2317309,Who is wearing glasses?,Waye yake sanye da gilashi?
+7715,2334365,Four.,Hudu.
+3392,2333500,How is the weather?,Yaya yanayi yake?
+1668,2338998,Black.,Baƙi.
+2732,2330621,Who is starbucks mascot?,Waye starbucks mascot?
+1859,2408812,Blue.,Shuɗi.
+5336,2414661,How many people are wearing glasses?,Mutane nawa ke sanye da madobin ido?
+7342,2317662,Where is the stop sign?,Ina alamar tsayawa?
+6838,2360089,What is the brown wooden object?,Mene na katako kuma ruwan ƙasa?
+4329,2364595,What is the bench made of?,Da me akayi bencin?
+5550,2415200,Two.,Biyu.
+7454,2370761,Where is the row of trees?,Ina jerin layin bishiyun?
+3552,2372306,A badge.,Lamba.
+1777,2324464,What color is the tennis ball?,Wani launi ne kwallon tanis din?
+1225,2353939,Green.,Kore.
+1831,2394894,Why is there food in containers?,Meyasa akwai abinci a cikin mazubi?
+3664,2389491,Watching the boy.,Kallon yaro
+3786,2324131,Where is the picture hanging?,Ina hoton yake rataye?
+6862,2332812,Green and brown.,Kore da ruwan ƙasa.
+4449,2386663,White.,Fari.
+4412,2344836,Who is in the parade?,Waye a cikin fareti?
+33,2324679,What color is the surfboard?,Menene launin allon hawan igiyar ruwan?
+4108,2405597,How many clouds are in the sky?,Gajimare nawane a sararin sama?
+7860,2324913,Shrimp.,ƙaguwa
+4886,2318598,What animal is there?,Wacce dabba ce a nan?
+5818,2341945,Two.,Biyu.
+2973,2415522,The horse.,Dokin.
+532,2393860,What very tall brown and green leafy things grow here?,Wasu dogaye sosai ruwan ƙasa koraye masu ganyen abubuwa ne suka girma a nan?
+3171,2376604,Where is the animal standing?,A ina dabbar take tsaye?
+5824,2358526,What does the writing say on the wall?,Me aka rubuta a bangon?
+489,2390993,A man.,Mutumi.
+3559,2397531,What season is this?,Wani lokacin shekara ne wannan?
+3127,2315568,What material is the person sitting on?,Da me akayi abunda mutumin ke zaune akai?
+270,2391500,Jeans.,Jeans.
+7033,2398174,Gray.,Ruwan toka.
+348,2372875,What are the people doing?,Me mutanen sukeyi?
+3909,2384675,When is the store open?,Dayaushe aka bude shagon?
+2877,2395604,Blue.,Shuɗi.
+1036,2323677,To see.,Don gani.
+7576,2410531,Shorts.,Jageran wando.
+7758,2359450,A city.,Birni.
+2238,2380505,Where was the photo taken?,A ina aka ɗauki hoton?
+1726,2365410,Wood.,Itace.
+793,2368181,A person.,Mutum.
+1431,2414909,None.,Babu.
+4637,2351804,Drinking.,Shan ruwa.
+6473,2324028,One.,Ɗaya.
+808,2358721,What are the cookies in?,A cikin ina kukis ɗin suke?
+159,2372875,Empty.,Fanko.
+609,2398411,Entertaining people.,Nishaɗantar da mutane.
+3505,2325884,Grey.,Ruwan toka.
+6784,2378502,What color is the sheep's head?,Mene launin kan tukiyar?
+3272,2408685,Blue.,Shuɗi.
+615,2405309,What color is the person's shirt?,Menene launin rigar mutumin?
+550,2401949,On the building.,A jikin ginin.
+6141,2406916,What types of suits are the people wearing?,Wasu irin kwat mutanen suke sake da shi
+5539,2323558,None.,Babu.
+1758,2342838,Blue.,Shuɗi.
+6954,2332221,What is in the background?,Mene a ƙasan bayan hoton?
+6506,2360550,What street does the sign say?,Wanne alamar titi ne?
+75,2409074,A place with palm trees.,Guri mai bishiyoyin kwakwa.
+5304,2364712,What is the cup made of?,Dame akayi kofin?
+630,2376244,Where was the photo taken?,A ina aka ɗauki hoton?
+4710,2408580,Yellow.,Rawaya.
+7085,2385611,In the sunlight.,A cikin rana.
+5793,2372734,Wool.,Ulu.
+588,2318585,Grey.,Ruwan toka.
+1292,2331138,What are the subjects of this photograph?,Menene maudu'in wannan hoton?
+4880,2358387,Who has no shirt on?,Waye bashi da riga?
+1428,2400328,What is the substance on the ground?,Meye abun dake ƙasa?
+633,2323851,Where is the person sitting?,A ina mutumin yake zaune?
+5769,2391713,Where are the flowers?,A ina furan yake?
+695,2400749,A red bedspread.,Jan shimfiɗar gado.
+2534,2316160,Daytime.,Da rana.
+1243,2323013,One.,ɗaya
+7680,2411997,Yellow.,Ruwan ɗorawa.
+5631,2326173,What color is the skateboarder's shirt?,Menene launin rigar skateboarder?
+372,2336673,A frisbee.,Frisbee.
+7422,2410331,Wall.,Bango.
+984,2348931,Why are the elephants in a staduim?,Meyasa giwayen suke cikin filin wasanni?
+2562,2417150,What color is this?,Wani launi ne wannan?
+3063,2371442,Why is J-055 painted on the plane?,Meyasa aka yi fentin J-055 a jikin jirgin?
+391,2410068,What color is the laptop?,Menene launin kwamfutar tafi-da-gidankan?
+4690,2324598,How many people are wearing masks?,Mutane nawa ne suke sanye da takonkomi?
+5855,2320382,To document zebras outdoors.,A ajjiye hoton jakin dawa a waje.
+7210,2371319,Left.,Hagu.
+2261,2377491,Taking a picture.,Ɗaukan hoton.
+7304,2401317,Metal.,Karfe.
+4610,2351804,Why is the giraffe closest to camera probably drinking water?,Meyasa raƙumin dawa dake kusa da kamera kamar yana shan ruwa?
+6383,2362098,What is this a photo of?,Wannan hoton me ne?
+2211,2338470,Daytime.,Da rana.
+2153,2378710,Where is the picture taken?,A ina aka ɗauka hoton?
+6030,2412517,Cinnamon rolls.,Biredi mai kirfa.
+2096,2381658,A bird.,Tsuntsu.
+4998,2366003,Where are the horses?,Ina dokunan?
+3037,2384767,What color is the bathtub?,Menene launin bahon wankan?
+6662,2392531,When was this picture taking?,Yaushe aka ɗauka hoton?
+3574,2328161,For safety.,Don tsaro.
+2566,2360453,Spinach.,Alayyahu.
+2021,2321802,Why is there a clock?,Meyasa aka saka agogon?
+1770,2386676,What color is the lamp post?,Menene launin futular?
+7841,2402657,What animal is shown?,Wacce dabba ake gani?
+5552,2358683,Where is the pan?,Ina abun soyar?
+5230,2391354,What type is the bus?,Wacce irin bas ce?
+3220,2415381,A blanket.,Bargo.
+6520,2332518,What color is the train?,Mene launin jirgin ƙasan?
+6589,2316709,What is Under the bridge?,Mene a ƙasan gadar?
+1820,2321229,What is the child doing?,Me yaron yakeyi?
+4467,2345710,When was the cows and dog photographed?,A yaushe aka ɗauki hoton shanun da kare?
+2261,2377491,What are the people doing?,Me mutanen sukeyi?
+2408,2363942,What state is the metal pole?,Yaya yanayin da pol din karfen yake?
+6471,2413449,What type of material is the bunk bed made of?,Da wani irin abu akayi gado mai hawa biyun?
+1822,2402465,What is the color of the leaf?,Menene launin ganyen?
+3702,2341633,What color is the sky?,Menene launin sararin Samaniya?
+7308,2393344,What is in the photo?,Mene ne a hoton
+6977,2409878,Players.,Yan wasa
+2989,2414854,At a bar.,A mashaya.
+4061,2398308,Where is the boat going?,Ina kwale-kwalen yake ta
+2259,2334900,When was this photo taken?,Da yaushe aka ɗauki wannan hoton?
+3102,2369421,Very Good Condition.,Yanayi mai matuƙar kyau.
+358,2365039,Standing.,Tsayuwa.
+3674,2367166,What is the hot dog on?,Akanme hot dog din yake?
+7299,2374744,What is the desk made out of?,Dame akayi tebur din?
+400,2332193,How many people are pictured?,Nawane adadin mutanen da aka nuna?
+4119,2336562,Who are in front of the building?,Suwaye a gaban ginin?
+7856,2343297,Yellow.,Launin ɗorawa
+2448,2374937,A pan.,Tukunyar suya.
+7305,2356292,Right of oranges.,Kusa da lemon zaki.
+3947,2387503,Behind the girl in black.,Abayan yarinyar dake sanye da  baƙi.
+3119,2380140,Red.,Ja.
+4406,2411542,Sitting.,Zama.
+6586,2385089,What color is the sky in this picture?,Mene launin sararin samaniya a hoton?
+5281,2390891,What is trailing the jets?,Me yayi wa jiragen jela?
+402,2390993,Rope.,Igiya.
+4780,2347577,Brown.,Ruwan ƙasa.
+2530,2339054,When was the picture taken?,Da yaushe aka ɗauki hoton?
+5191,2409248,What is in the immediate foreground?,Menene a gaba?
+1984,2372238,Front of truck.,Gaban babbar motar.
+2132,2408059,What is on the pizza?,Menene a kan pizzan?
+7136,2327770,What color is the ground?,Mene launin ƙasan?
+4759,2401789,Night time.,Dare.
+1939,2407575,Where is the bird located?,A ina tsuntsun yake?
+3191,2329748,Beige.,Beige.
+5225,2356628,What color is the boy's shirt?,Mene launin rigar yaron?
+732,2401949,No plane.,Babu jirgin sama.
+3466,2315568,What color is the large spoon over the sword?,Wani launi ne babban cokalin da yake saman takobi?
+4397,2401365,No one.,Ba kowa.
+3101,2369421,Saddlebag.,Sirdi.
+5154,2354655,Where is the red overhang?,Ina jan rumfar?
+2884,2327375,Daytime.,Da rana.
+923,2407619,Red.,Ja.
+188,2408726,Brown.,Ruwan ƙasa.
+3233,2358413,How is the weather?,Yaya yanayin?
+2230,2414676,Africa.,Afrika.
+1626,2360200,Backpacks.,Jakunkunan goyo.
+166,2317544,Rainy weather.,Yanayin damina.
+5131,2370620,A green mossy stain.,wani koren mossy tabo
+6679,2410402,Rock.,Dutse
+1632,2331905,A city setting.,Yankin birni.
+5062,2413885,Gray.,Ruwan toka.
+4041,2413875,Down a street.,ƙasan titi.
+6728,2322820,What is the person in white doing?,Me mutumin dake sanye da farar yake yi?
+5441,2400093,Why is there a spoon in the pan?,Meyasa cokali yake cikin kasko?
+6702,2345475,In the mountains.,A tsauni.
+29,2321878,What color objects are on the ground?,Wasu launin abubuwa ne a ƙasa?
+5481,2353265,Daytime.,Da rana.
+5640,2405601,Where is the kite?,Ina kit?
+5404,2381497,How many benches are there?,Bencika nawa ne a nan
+2226,2334900,Standing.,A tsaye.
+3386,2378012,2,Biyu
+4022,2325931,Why is the lady walking?,Meyasa matar take tafiya?
+1932,2386740,One.,Ɗaya.
+1963,107919,Red.,Ja.
+5518,2347936,Train.,Jirgin ƙasa.
+3743,2385778,What is in the glass?,menene a cikin kwalbar?
+6121,2417901,What is the nearest little boy doing?,Me ƙaramin yaro mafi kusan yake yi?
+4914,2340098,Man.,Mutumin.
+3704,2384675,Blue.,Shuɗi.
+1553,2388498,Tile.,Tayel.
+4165,2407273,What is this a picture of?,Wanne hoton ina ne?
+2506,2339054,Who is standing in front of the television?,Waye tsaye a gaban talabijin ɗin?
+205,2328500,Houses.,Gidaje.
+2525,2399639,What is on the woman's shoulder?,Menene a kafaɗar matar?
+2348,2414799,Where is the child?,Ina yaron yake?
+3128,2340163,Blue.,Shuɗi.
+921,2365007,Dock.,A tashar jirgin ruwa.
+67,2401582,Veil with rose.,Gyale mai furen wardi.
+3148,2380269,Blue and white.,Shuɗi da fari.
+3754,2335715,How many houses are there?,Gidaje nawa ne a wurin?
+1386,2376360,Where is the girl sitting?,A ina yarinyar take a zaune?
+763,2336834,When was photo taken?,Yaushe aka ɗauka hoton?
+3223,2348000,Where do you see a chair?,A ina ka ga kujera?
+7068,2334735,White.,Fari.
+6263,2409318,What color is the helmet?,Mene launin hular kwanon sa?
+7371,2349854,Bowl.,A kwano.
+2966,2358019,How is the weather?,Yaya yanayin yake?
+7847,2336868,Zero.,Babu.
+7306,2356292,When was this taken?,Yaushe aka ɗauki wannan?
+3130,2376792,Crowd.,taron mutane.
+2569,2368090,A church.,Coci.
+3235,2392162,A pedestal.,ƙafa.
+3290,2393015,What room is pictured?,Wani ɗaki aka ɗauka?
+2171,2370083,Who is wearing a bracelet?,Wanene yake sanye da awarwaro?
+7467,2332663,Where is the Wii console?,Ina wii console yake?
+7128,2379989,Blue.,Shuɗi.
+337,2342072,Why is the keyboard needed?,Meyasa ake buƙatar masarrafin kwamfuta?
+4383,2358539,What is the pathway made of?,Da me aka yi hanyar wucewa?
+3064,2406313,Who is riding the horse?,Waye yake hawan dokin?
+3521,2392523,Skiing.,Gudun ƙanƙara.
+519,2408332,Dirt.,Dauɗa.
+689,2407619,How many buses are in the picture?,Nawane adadin bas a cikin hoton?
+4976,2319154,Don't walk.,Kar kayi tafiya.
+2821,2360305,The building.,Gini.
+7195,2364025,Where are the white flowers?,Ina fari furanni?
+4621,2365928,Riding an elephant.,Hawan giwa.
+2754,2327489,White.,Fari.
+1011,2407935,Why is the water sparkling?,Meyasa ruwan yake ƙyalli?
+4151,2334067,Where is the picture taken?,A ina aka ɗauki hoton?
+7477,2366107,Who is wearing the red jacket?,Wa ke sanye da jar jacket?
+4261,2339275,Black.,Baƙa.
+3626,2321004,Where are the trees?,A ina bishiyun suke?
+4204,2392080,What is next to the bus?,Me ke kusa da motar bas?
+5561,2323309,How many cars are turning right?,Motoci nawa suke juyawa dama?
+3407,2400273,What eyewear are the women wearing?,Wanne abun sanyawar ido ne matanan ke sanye da?
+2164,2386533,What is on their head?,Menene a kan su?
+6164,2351388,What color is the grass?,Mene launin ciyawar?
+5309,2409424,What color are the wheels on the skateboard?,Mene ne launikan ƙafafu sikebod?
+5130,2416181,How many bowls are there?,Kwanuka nawa ne a wurin?
+5224,2328201,Daytime.,Da rana.
+6751,2381488,Where is this picture taken?,A ina aka ɗauki wannan hoton?
+3181,2328159,Where is the place?,Ina ne gurin?
+2234,2324218,2 men.,maza 2.
+4850,2410401,Where are the vehicles parked?,A ina aka ajjiye abun hawa?
+2242,2327260,Green.,Kore.
+74,2383244,4,4
+3803,2374637,Standing in the ocean.,Tsaye a cikin teku.
+3133,2323563,Ciclavia.,ciclavia.
+379,2339344,Where is the fruit?,Ina kayan itacen?
+4975,2332687,How many zeros are on the sign?,Sifili nawa ne a alamar?
+2133,2341074,Daytime.,Da rana.
+1429,2369363,Smoke.,Hayaƙi
+3182,2327263,Who is in the pic?,Waye a cikin hoton?
+4003,2388311,What can be seen in the background?,Me ake iya gani a ƙasan bayan?
+4739,2363124,What is around the horses mouths?,Menene a zagaye da baki?
+5539,2323558,How many people in red hats?,Mutane nawa ke sanye da Jar hula?
+2035,2367213,Where is the tower?,Ina hasumiyar?
+7637,2374619,Who is in the picture?,Waye a hoton?
+4155,2411542,What color is the tent on the right?,Mene launin tantin dake dama?
+6553,2343628,Man's face.,Akan fuskar mutumin.
+604,2370142,A fence.,Shinge.
+6014,2372533,Two.,Biyu.
+3170,2393878,In front of the boy in the yellow shirt.,A gaban yaron dake sanye da rawayar riga.
+5776,2350048,What animal is in the photo?,Wacce dabba ce a hoton?
+140,2384817,It's being transported.,Ana safarar shi.
+5948,2377846,What color is the sign?,Wani launi ne da alamar?
+7704,2343297,What color is the tablecloth?,Wani launi ne da ƙyallen tebur ɗin?
+2430,2321802,Where is the short hand of the clock?,Ina guntun hannun agogon?
+2898,2390120,Stone.,Dutse.
+3158,2364146,Brick.,Bulo.
+642,2416825,Where was this picture taken?,A ina aka ɗauki wannan hoton?
+6501,2384565,What is cat doing?,Me magen ke yi?
+1295,2343863,No one.,Ba kowa.
+1463,2393050,Graffiti.,Zane.
+1560,2394096,Laying down.,Kwance a ƙasa
+3626,2321004,Background.,A ƙasan bayan hoton.
+4373,2361119,Who is looking at the blue sign?,Wanene yake kallon Shuɗiyar alamar?
+594,2395326,Blue.,Shuɗi.
+1917,2390196,Glass.,Gilashi.
+1672,2321066,What color are the boy's shorts?,Menene launin gajeran wandon yaron?
+2862,2361751,What is in the hole?,Menene a cikin ramin?
+6865,2386985,"Outside, during the daytime.","Waje, da rana"
+4091,2386663,Where is the sailboat?,A ina jirgin ruwa yake?
+6505,2385089,Daytime.,Da rana.
+1030,2412238,White.,Fari.
+4592,2318020,A table.,Tebur
+4790,2385428,Where was this photo taken?,Ina aka ɗauki hoton nan?
+3429,2349832,To show a bathroom.,Don nun bayan gida.
+6160,2407969,Windows.,Taga.
+5963,2335245,Where is the photo taken?,A ina aka ɗauki hoton?
+6779,2346896,Sidewalk.,Gefen titi.
+6970,2364367,Where is this photo taken?,A ina aka ɗauki wannan hoton?
+2254,2322074,One.,ɗaya.
+3634,2396733,One.,Ɗaya.
+1930,2401587,Where is the woman sitting?,Ina matar take zaune?
+5738,2360464,By the building.,A kusa da gidan.
+4622,2355190,Black.,Baƙi.
+7064,2338734,In a field.,A fili.
+1877,2394993,What color are the countertops?,Wani launi ne a saman tebur din?
+2760,2396267,What is the dog doing?,Me karen yakeyi?
+5018,2366688,What is the color of the grass?,Mene launin ciyawar?
+967,2348986,To secure.,Don kariya.
+3058,2359134,What are the people doing?,Me mutanen sukeyi?
+3184,2349832,What color is the bathroom?,Menene launin bayan gidan?
+6498,2404308,Buildings.,Gine- gine.
+7384,2384725,When was this photo taken?,A yaushe aka ɗauki wannan hoton?
+310,2413552,Blonde.,Blonde.
+3749,2384111,Bench.,benci.
+4684,2336481,The woman.,Matar.
+2913,2328574,Who is playing a game?,Waye yake wasa.
+3570,2326721,Grey and white.,Ruwan toka da fari.
+4303,2385305,What color is the door?,Wani launi ne da ƙofar?
+2623,2401954,Buildings.,Gininnika.
+1828,2346120,Wood.,Katako.
+6242,2340549,What color is the fence?,Menene launin dangar?
+5620,2347296,EXETER.,EXETER
+6061,2342457,Daytime.,Da rana.
+3625,2350083,Who is holding the umbrella?,Waye yake kike da lema?
+6496,2406991,Green.,Kore.
+921,2365007,Where is the boat at?,A Ina jirgin ruwan yake?
+4074,2413875,What color is the bus?,Menene launin bas?
+2326,2353035,One.,Ɗaya.
+5602,2326978,Grey.,Ruwan toka.
+2185,2370905,How is the day?,Yaya ranar?
+5379,2377370,Night.,Dare.
+1269,2322894,White.,Fari.
+5283,2416181,In between the trays.,A tsakiyar farantai.
+2742,2362211,Woman and man.,Mace da namijin.
+7812,2407281,What is the man holding?,Me mutumin yake riƙe dashi?
+6839,2357217,One.,Ɗaya.
+3175,2372323,Bag.,Jaka.
+7809,2399850,Furled.,A tattare.
+6153,2414305,A shadow of a person.,Inuwar mutum.
+7433,2406459,What color is the bus?,Mene launin bas?
+256,2393380,Of the plane.,Na jirgin.
+7759,2344495,What kind of animal is there?,Wanne irin dabba ce a nan?
+872,2405309,How many people are visible on this bus?,Nawane adadin mutanen da ake gani a bas ɗinnan?
+4705,2335822,What color is the picture frame?,Menene launin firam ɗin hoton?
+1017,2367897,What is written on the racket?,Me aka rubuta a kan raket ɗin?
+6115,2360541,Where are the man's socks?,Ina safar mutumin?
+4747,2410839,Blue.,Shuɗi.
+6804,2370651,During daylight hours.,Lokacin haske rana.
+3217,2336865,One.,Ɗaya.
+5948,2377846,Red.,Ja.
+5167,2328829,One.,ɗAYA.
+6029,2388563,Why the ground is muddy?,Meyasa ƙasan yayi taɓo?
+5222,2375508,What is on the ground?,Mene a ƙasa?
+2572,2402674,Where is the boy in orange?,Ina yaron da ake sanye da ruwan lemo yake?
+2271,2377619,There isn't one.,Babu ko ɗaya.
+248,2353595,What color is the dog?,Wani launi ne da karen?
+6216,2386549,No one.,Babu kowa.
+1615,2372900,Sailboat.,Kwala-kwale.
+4735,2344002,How many pizzas are there?,Pizza nawa ne a wurin?
+4457,2358633,Daytime.,Da rana.
+5172,2374568,What is the woman holding?,Me matar take riƙe da?
+515,2382680,Sunny and warm.,Rana da ɗumi.
+3860,2319966,White.,Fari.
+2907,2417150,Where is this scene?,Ina ne wurin nan?
+2780,2352795,When was the photo taken?,Da yaushe aka ɗauki hoton?
+1647,2372900,In the distance.,A can baya.
+3098,2372099,A police officer.,Ɗan sanda.
+7796,2325842,How many kites are there?,Nawane adadin jiragen leda a gurin?
+2698,2369489,Lights.,Haske
+946,2358721,What are the small baked goods contained in?,A cikin me ƙananan gasassun kaya suke?
+205,2328500,What is up on top of the bank?,Menene a sama a kan bakin ruwan?
+5820,2362523,What vehicles are these?,Wanne irin abun hawa ne waɗannan?
+6911,2325217,Who has a tail?,Waye yake da jela?
+2834,2366013,What is in the sky?,Menene a sama?
+2811,2330621,Starbucks.,Starbucks.
+689,2407619,2,2
+623,2353018,What color is the wall?,Menene launin bangon?
+847,2405669,White.,Fari.
+5590,2337896,Gray.,Ruwan toka.
+49,2372875,What are the cars doing?,Me motoci sukeyi?
+1661,2334356,Black.,baki.
+520,2408332,Plumbing.,Jan ruwa.
+7605,2353318,One.,ɗaya.
+2238,2380505,On a sidewalk.,A gefen titi.
+196,2316899,A teddy bear.,Teddy bear.
+3165,2363132,What is on the ground in the woods?,Menene a ƙasan a cikin jejin?
+1270,2322894,Where was the picture taken?,A ina aka dauka hoton?
+2732,2330621,Mermaid.,Mermaid.
+687,2341167,Who is walking past a train?,Waye yake tafiya ya wuce jirgin ƙasa?
+2223,2392341,A picture.,Hoto.
+7764,2363014,On the girl.,A jikin yarinyar.
+3363,2343921,Where was this photo taken?,A ina aka ɗauki wannan hotan?
+3797,2367445,Round.,Da'ira.
+4440,2401365,An oil rig.,Rijiyar mai.
+6159,2407334,What color is the wood wall?,Mene launin bangar katako?
+1268,2363784,Brown.,Ruwan ƙasa.
+6896,2398981,They jumped.,Sunyi tsalle ne
+6979,2410402,What is in the water?,Mene a cikin ruwan?
+6668,2339853,Food.,Abinci.
+532,2393860,Trees.,Bishiyoyi.
+286,2383244,What color is the puppy?,Menene launin ɗan kwikwiyon?
+2685,2379395,To sell food.,Don sayar da abinci.
+5189,2354975,How many ties?,Tie nawa ne?
+5246,2368396,Two.,Biyu.
+6997,2318313,What color is the building?,Mene launin gini?
+2528,2392102,White and blue.,Fari da shuɗi.
+4774,2319180,A man.,Namiji.
+986,2373130,Where is a man in grey?,Ina mutumin dake sanye da ruwan toka?
+5605,2328829,What color are the window drapes?,Mene launin cikin labulen tagar?
+5272,2315730,Life jacket.,Rigar kariya.
+3141,2337673,Outside of a church.,A wajen coci.
+5133,2413596,Black.,Baƙi.
+3549,2389974,What is the guy hauling?,Me mutumin yake ja?
+3583,2377539,During the daytime.,Da lokacin rana.
+7282,2392672,No one.,Ba kowa.
+440,2379652,No one.,Ba kowa.
+2855,2317309,The picture was taken in a building.,An ɗauka hoton a cikin ginin.
+2447,2416902,Where are the people?,Ina mutanen?
+6246,2337267,Clouds.,Gizagizai.
+2045,2368087,What is the style of the countertop?,Menene salon kan kanta?
+2717,2353674,What design are the giraffes covered in?,Wani irin zane raƙuman dawan suke dashi?
+3128,2340163,What color are the flowers?,Menene launin furran?
+3258,2404303,What is above the statues?,Menene a saman gumakan?
+6714,2360918,Hot dogs.,Hot doga
+3197,2400273,What are the skiers wearing?,Me masu sulun ƙanƙara suke sanye da?
+1744,2384978,One.,"ɗaya,"
+107,2373313,On the bed.,A kan gadon.
+2079,2370083,Nike.,Nike.
+6926,2366573,On dog.,Jikin karen.
+4747,2410839,What are the pillows color?,Menene launin filallukan?
+7249,2368690,What game is being played?,Wani wasa akeyi?
+1610,2384285,With its tongue.,Da harshenta.
+5816,2402050,What is the main color of the clouds?,Mene ainihin launin gizagiza?
+2870,2403936,The baby.,Jaririn.
+7691,2318638,The man.,Mutumin.
+3469,2392669,A wall.,Bango.
+7778,2345486,Where is this picture taken?,A ina aka ɗauki wannan hoton?
+636,2395638,Trunk.,Hancin giwa.
+7646,2334271,1 bike.,Babur ɗaya.
+6753,2360697,Food on table.,Abinci a kan tebur.
+5071,2397051,What kind of vehicle is visible?,Wanne abun hawa ake iya gani?
+7153,2411258,White.,Fari.
+760,2392832,30.00.,30.00.
+2512,2364371,What is on the table with the salad?,Menene a kan tebur tare da salad ɗin?
+3423,2399898,How many horses are in the image?,Dawakai nawa ne a hoton?
+2463,2379868,Green.,Kore.
+1612,2321229,What is to the left of the image?,Menene a ɓarin hagun hotan?
+1742,2410258,What is on the bed?,Menene a kan gadon?
+382,2335099,When was the pic taken?,Yaushe aka ɗauki hoton?
+6494,2403741,Grass.,Ciyawa.
+2534,2316160,When was this picture taken?,Yaushe aka ɗauki wannan hoton?
+1635,2375873,What is large and green?,Menene babba kuma kore?
+6412,2407228,Houses.,Gidaje.
+716,2413648,Hexagon.,Hexagon.
+5367,2360260,Green.,Koriya.
+6492,2330337,What color are the zebras?,Mene launin jakunan dawa?
+7398,2364752,What is behind the table?,Mene a bayan tebur din?
+2435,2353347,What is the player wearing on his head?,Me ɗan wasan yake sanye dashi a kan shi?
+3864,2356034,11-11.,11-Nov
+7469,2398038,What is to the right of the water?,Menene a gefen damar ruwan?
+6856,2363672,Signs.,Alon alama.
+3462,2336865,What is the fence made of?,Da me akayi shingen?
+3772,2397980,Where is a cigarette?,Ina sigarin?
+4245,2373415,Who is in the photo?,Wake cikin hoton?
+1661,2334356,What color is the question mark?,Wani launi ne alamar tambayan?
+722,2407210,What color is the piece of paper on the left of the table?,Menene launin fallen takardar dake hagun tebur ɗin?
+5996,2405971,How many sandwiches are there?,Sandwic nawa ne a nan?
+5411,2332607,What color are the dogs eyes?,Mene launin idanun karen?
+1578,2385577,How many pizzas are there?,Nawa ne adadin pizza a gurin?
+1980,2345690,When was the man smiling?,Da yaushe mutumin yake murmushi?
+1728,2334356,One.,Daya.
+985,2407576,What is the horse standing in front of?,A gaban me dokin yake tsaye?
+2097,2381658,What color is the bird?,Wani launi ne tsuntsun?
+2372,2416089,How many signs?,Alamomi nawa ne?
+4479,2409310,Green.,Kore.
+4177,2381042,Where are the passengers?,Ina fasinjojin suke?
+1584,2321229,On a field.,A fili.
+7559,2392528,Suitcase.,Ƙaramin akwati.
+4841,2413170,What color is the sky?,Mene launin sararin samaniya?
+831,2353018,What color is the man's shirt?,Menene launin rigar mutumin?
+3512,2374229,What is the gender of the person on the right in the purple sweater?,Mene jinsin wanda yake tsaye daga dama mai rigar sanyi ruwan malmo?
+4489,2402473,The cucumber.,Kokanba.
+3748,2397531,What color is the road?,Menene launin titin?
+4007,2346365,1,1
+2252,2411835,Black.,Baƙi.
+977,2329389,When was this?,Yaushene wannan?
+2672,2331840,Pitching.,Saitawa.
+3658,2408450,Why are people standing here?,Me yasa mutane suke tsaye a nan?
+2103,2388902,Two giraffes in enclosure.,Raƙuman dawa biyu a rufe.
+780,2340750,Who is in the background?,Wanene a bayan hoton?
+5691,2366577,How is the ground?,Yaya ƙasa take?
+803,2400965,On poles.,Kan ƙarafuna.
+85,2378433,What is the color of the bear?,Menene launin dabbar bear?
+1998,2398318,What is beneath the cat?,Menene a ƙasan magen?
+4396,2409310,Airport.,Filin jirgin sama.
+4805,2351804,Water.,Ruwa.
+6176,2417947,Snow.,Dusar ƙanƙara.
+2023,2395907,Bricks.,Bulo.
+6327,2316709,How many boats are there?,Jirgin ruwa nawa ne a nan?
+3230,2387257,Silver.,Ruwan azurfa.
+298,2321878,On the woman's head.,A kan matar.
+4791,2328427,What color is the man's shirt?,Menene launin rigar mutumin?
+2734,2395604,What is in the sky?,Menene a sararin samaniya?
+2433,2331786,What is she holding?,Me take riƙe da shi?
+2754,2327489,What color is the snow?,Wani launi ne ƙanƙarar?
+4371,2321384,Daytime.,Da rana.
+6936,2355345,White.,Fara.
+878,2330773,4,4
+6798,2347287,What color is the banana?,Mene launin ayabar?
+6070,2381185,USA.,USA
+6397,2407844,Daytime.,Da rana.
+3549,2389974,There is a lot of stuff on his bike.,Abubuwa dayawa ne a kan keken sa.
+7586,2328298,What color is the fence?,Mene launin dungar?
+2558,2321949,During the day.,Da rana.
+6408,2342608,When was this?,Wanne lokaci ce nan?
+1767,2333198,Who is in the back?,Waye a baya?
+2348,2414799,In front of the man.,A gaban mutumin.
+1973,2351203,Butterflies.,Malam buɗa mana littafi.
+4256,2391963,What do the leaves look like?,Dame ganyan suke?
+4909,2358156,Who is in the foreground?,Waye a saman hoto?
+7006,2321264,Daytime.,Da rana.
+2692,2413005,What animal is shown?,Wacce dabba aka nuna?
+45,2414132,What is the color of telephone wires?,Menene launin wayoyin tarho?
+1792,2401708,What kind of vegetables are in the dish?,Wasu irin kayan lambu ne a abincin?
+1807,2346840,A piece of art.,Wani ɗan zane.
+3695,2409139,What color is the horse's hair?,Wanne launi ne da gashin dokin?
+6046,2385208,What color is the table?,Mene ne launin tebur din?
+1231,2331138,In the upper left area.,Daga sama a ɓarin hagu.
+6317,2323235,A cell phone.,Wayar salula.
+4044,2401365,Where is the tower?,Ina hasumiya yake?
+976,2329587,What is she playing?,Wane wasa takeyi?
+5169,2391354,During daytime.,Da rana.
+799,2389113,Where is the platform?,A ina dandamalin yake?
+4709,2366903,Clear.,A bayyane.
+5411,2332607,Brown.,Ruwan ƙasa-ƙasa.
+6052,2376409,Black.,Baƙi.
+2683,2411981,White.,Fari.
+6772,2389530,What is about to happen to the pizza?,Meke shirin faruwa ga fiza?
+3897,2377539,Water.,Ruwa
+1274,2409428,What color is the man's hair?,Wani launi ne rigar mutumin?
+3855,2356589,No one.,Bakowa
+2288,2326709,Yellow.,Rawaya.
+656,2407883,Metal fence.,Shingen ƙarfe.
+5232,2409599,6,Shiga.
+6833,2357597,How many people can be seen?,Mutane nawa ake iya gani?
+220,2327133,516,516
+3296,2407212,How many people are shown?,Nawa ne adadin mutanen da aka nuna?
+3656,2321587,What color shoes are the boys wearing?,Wani launin takalma mazan suke sanye da shi?
+2725,2366013,Where are the people?,Ina mutanen suke?
+6835,2338525,Walking.,Tafiya.
+3893,2324131,Window.,Taga.
+936,2368636,What is at the bottom left of the bananas?,Menene a ƙasan hagun ayaban?
+5632,2326173,"Black, blue, and white.","Baƙi, shuɗi da fari."
+3276,2370738,What is behind the tree on the left?,Menene a bayan bishiyar daga hagu?
+2120,2378173,White.,Fari.
+1995,2315926,Where is the closest plane facing?,Ina jirgi mafi kusa yake kallo?
+2307,2414799,A scarf.,Dankwali.
+4260,2344916,A candle.,Kyandir.
+716,2413648,What shape is in the background?,Menene siffar da take gaban?
+4385,2388311,What is in the man's hand?,Menene a hannun mutumin?
+3478,2318499,Cat.,Mage.
+3565,2385895,What color is the toilet brush?,Wani launi ne da buroshin ban ɗakin?
+48,2372875,How is the train?,Yaya jirgin ƙasan?
+5898,498232,Round.,Zagayayye.
+1745,2404973,What is above the salt shaker?,Menene a saman abun kaɗa gishirin?
+7745,2336041,What is in the sky?,Ina ne a sararin samaniya?
+1197,2384738,What is the cat doing?,Me mage takeyi?
+5900,498232,A watch.,Agogo.
+2077,2414676,What animal is in front of the zebras?,Wacce dabba ce a gaban jakunan dawan?
+2806,2411285,Stormy.,Gajimare mai duhu.
+5374,2381990,What kind of table is this?,Wanne irin tebur ne wannan?
+6173,2337267,In front of the plane.,A gaban jirgin saman.
+5122,2414008,What is the umbrella for?,Menene amfanin lemar?
+3393,2337673,Daylight hours.,Da lokacin rana.
+1638,2335893,What vehicle is shown?,Wani abun hawa aka nunaa?
+785,2411164,Oval.,Siffar ƙwai.
+7473,2401317,What kind of structure is in the middle distance?,Wani irin tsari ne a tsakiya a nesa?
+4991,2365928,What is next to the elephant?,Mene kusa da giwar?
+1331,2389609,How are the cars painted?,Ya ake fentin motoci?
+3243,2316244,What color is the water?,Wani launi ne da ruwan?
+4944,2347577,Where is the donut?,Ina donut ɗin?
+4290,2364087,While cutting.,Lokacin da ake yankawa.
+1292,2331138,Toilets.,Matsugunni.
+5352,2374568,Where was this picture taken?,A ina aka ɗauki wannan hoton?
+5137,2323804,Two.,Biyu.
+3236,2389022,A wooden stool.,Kujerar katako.
+864,2317507,Where was the picture taken?,A ina aka ɗauki hoton?
+5781,2383481,Where is the bus going?,Ina motar bas din zataje?
+1248,2347425,Green.,kore.
+2674,2410109,Broccoli.,Kabejin brokoli.
+4724,2327118,Pilot.,Matuƙin jirgin sama.
+3161,2392669,Where is the graffiti?,Ina zanen yake?
+2629,2317342,What color is the snow?,Menene launin dusar ƙanƙara?
+472,2415913,A keyboard.,Masarrafin kwamfuta.
+5387,2338205,Who is getting on the bus?,Waye zai shiga bas?
+2328,2375491,What animal is shown?,Wacce dabbar aka nuna?
+5893,2370153,Ears.,Kunne.
+2920,2416677,On a chair.,Akan kujera.
+687,2341167,The man with the backpack.,Mutumi mai jakar bayan.
+5301,2336925,Where is the lamp?,Ina fitular?
+707,2406319,What animal is pictured?,Wacce dabba aka nuna?
+6569,2334064,What color is the man's coat?,Mene launin rigar mutumin?
+7843,2340279,How many fingers are showing?,Yatsu nawa ake gani?
+5406,2356628,Up on the mountain bench.,A bencin saman dutse.
+2526,2332525,How many people are there?,Nawa ne adadin mutane a gurin?
+273,2332991,Woman.,Mata.
+4592,2318020,What is the phone on top of?,Wayar tana kan mene?
+306,2393380,Express.,Express.
+1855,2400745,Tie.,Maɗaurin waya.
+364,2393380,A runway.,Titin jirgin sama.
+641,2414163,What color are the earphones?,Menene launin wayar kunne?
+4673,2316969,The one on the right.,Wadda take a hannun dama
+2130,2368087,What color is the lunch box?,Menene launin mazubin abincin rana?
+5597,2381497,Why is there a lighthouse?,Meyasa hasumiya mai fitula ke nan?
+7126,2331263,Daytime.,Da rana.
+3097,2364146,Brick wall.,Bangon bulo.
+2723,2403936,The baby.,Jaririn.
+437,2392791,Blue.,Shuɗi.
+2229,2398422,207,207
+4322,2358468,Four.,Huɗu.
+7688,2352961,Two.,Biyu.
+245,2403773,What is the tv sitting on?,Akan me talabijin ɗin yake ajiye?
+7331,2319358,How many people are in this photo?,Mutane nawa ne a wannan hoton?
+4128,2402446,In tree.,Kan bishiya.
+9,2415913,A curtain.,Labule.
+1948,2368614,Banan bunch.,Damin ayaba.
+825,2330773,Who is eating?,Waye yake cin abinci?
+2670,2412969,How many candles are pictured?,Kyandir nawa aka ɗauka a hoto?
+4338,2408782,Green.,Koraye.
+4480,2394411,Where is the food?,Ina abincin?
+4621,2365928,What are the people doing?,Me mutanen suke yi?
+6117,2330337,Daytime.,Da rana.
+4531,2333533,When are the girls sitting on the bench?,A wanne lokaci ne yaran mata ke zaune kan benci.
+16,2414132,Where is the white building located?,A ina farin gini yake?
+2441,2339684,Who is laying on the bed?,Waye kwance a kan gadon?
+395,2349358,Where was this photo taken?,A ina aka ɗauka wannan hoton?
+1753,2329339,Why is the plane descending?,Meyasa jirgin yayo ƙasa?
+5092,2329954,Hanging up.,Tana rataye.
+7274,2316371,Blue.,Shuɗi.
+5364,2398820,Shining blue.,Shuɗi mai haske.
+6728,2322820,Touching the cow.,Taɓa
+588,2318585,What color is the upper wall of the room?,Menene launin saman bangon ɗakin?
+6144,2406991,Where is the Frisbee?,Ina Frisbee ɗin?
+4185,2355585,When was the photo taken?,Yaushe aka ɗauki wannan hoton?
+1711,2375873,What is empty on the tree?,Menene fanko akan bishiyar?
+4772,2385972,What are these people standing in?,Me mutanen nan suke tsaye akai?
+42,2409658,Playing tennis.,Yin wasan tanis.
+5658,2391713,Flowers.,Fure.
+125,2354438,What is the mother doing?,Me uwar takeyi?
+4997,2360260,Why are the sheep in the grass?,Meyasa tumaki suke cikin ciyawa?
+3575,2355594,Sunglasses.,Tabarau ɗin kare rana.
+3777,2393818,Cloudy.,Mai hadari.
+5456,2335574,Two.,Biyu.
+3049,2337673,Motorcycles.,Babura.
+3427,2340548,No one.,ba kowa.
+1719,2408812,Radiator.,Radiyeto.
+3019,2404303,What is the color of her top?,Menene launin rigar ta?
+6605,2378308,Three.,Uku.
+4721,2383427,To surf.,Saboda surfing.
+6786,2405531,Brown.,Ruwan ƙasa
+7750,2408813,Green.,Kore.
+530,2386594,White.,Fari.
+5363,2378098,Green.,Kore.
+2074,2386533,Where are the kids?,Ina yaran?
+727,2360685,The wind.,Iskar.
+1358,2393527,What color is the horse?,Mene launi dokin?
+4412,2344836,A marching band.,Ƙungiyar makaɗa masu tafiya.
+3799,2406365,What is the focus of this photo?,Me hoton nan yafi mayar da hankali a kai?
+7645,2334271,What is the man sitting on?,A kan me mutumin ke zaune?
+4081,2409310,Ocean.,Teku.
+507,2342858,Who is in front of the umpire?,Waye a gaban alƙalin wasa?
+7686,2399850,Spiked.,A tsaye.
+525,2373130,What is the woman in front doing?,Me matar gaba takeyi?
+7828,2375798,What is the man holding?,Me mutumin yake riƙe dashi?
+5417,2404890,Passing.,Wucewa.
+410,2391500,Skateboard.,Allon sulu mai taya.
+3658,2408450,To catch a train.,Dan kama jirgin ƙasa
+4340,2411229,What's the color of the gate?,Menene launin babbar ƙofar ?
+6129,2390856,On a boat.,A jirgin ruwa.
+4850,2410401,Sand.,Akan ƙasa.
+3011,2368860,What material is the fence made of?,Da me akayi katanagar?
+7127,2374316,Why is she smiling?,Meyasa take murmushi?
+637,2407576,On the street.,A kan titin.
+170,2407651,On the window.,A jikin tagan.
+6687,2386985,Where was this photo taken?,A ina aka ɗauki wannan hoton?
+5400,2387917,Daytime.,Da rana.
+6366,2406154,Ball.,Kwallo.
+2946,2392896,What is sitting on the ground?,Me yake zaune akan ƙasa?
+305,2364944,How many toilets are there?,Nawane adadin ban ɗaki a gurin?
+6801,2366157,What color helmet is the person wearing?,Wanne launin hular kwanon mutumin ke sanye dashi?
+2895,2357813,What color is the fridge?,Menene launin firjin?
+1258,2389169,What is the food on?,A kan me abincin yake?
+535,2351920,On the bike.,A kan babur ɗin.
+5834,2362057,At a restaurant.,A gidan cin abinci.
+7731,2353356,What type of animal is that?,Wanne irin dabba waccan?
+5452,2388642,The bicycle.,Keke.
+3633,2384111,One.,Ɗaya.
+1236,2348951,When was the photo taken?,Yaushe aka dauki hoton?
+1477,2332506,Sunglasses.,Tabarau.
+804,2413648,Grate.,Grate.
+1429,2369363,What is the plane blowing out?,Me jirgin sama yake busowa?
+3219,2340548,What color is the sauce?,Wani launi ne miyar?
+3032,2404303,What is the clock tower made of?,Dame akayi hasumiyar agogon?
+4861,2328427,To show how people are playing games.,Ya nuna yadda mutane ke yin wasa.
+5295,2401735,Where are items sitting?,A ina aka ajjiye kayan?
+3538,2389268,Five pickle slices.,Yankan wani abincin tsami guda biyar.
+5926,2396792,To mix food.,A juya abinci?
+5230,2391354,Double decker.,Mai hawa biyu.
+6210,2399016,Where are the bananas?,A ina ayaba take?
+746,2400262,Where are the cables?,Ina igiyoyin lantarkin?
+194,2405799,Near a park.,Kusada gurin shaƙatawa.
+6689,2345905,Where are the people?,Ina mutanen?
+4416,2347014,What is in the sky?,Menene a sararin samaniya?
+3787,2346762,How many curtains are there?,Nawa ne adadin labulaye a gurin?
+5176,2388566,How many nets are visible?,Raga nawa ake iya gani?
+5758,2386598,What fruit remains are shown?,Ragowar wane kayan itaciya ne?
+7870,2345589,When was this photo taken?,Yaushe aka ɗauki wannan hoton?
+4868,2347163,Clock tower.,Hasumiya agogo.
+6094,2341475,What is the man riding on?,Me mutumin yake tukawa?
+4108,2405597,None.,Babu ko daya.
+6802,2376409,Trees.,Bishiyu
+7261,2318313,What color is the ground?,Mene launin ƙasan?
+3828,2355898,Candelabras.,Abin ajiye kyandir.
+3057,2324363,A cow.,Saniya.
+5209,2399600,Away from the camera?.,Ya bawa kamera baya.
+4555,2389508,What color is the road?,Mene launin titin?
+4861,2328427,Why was this picture taken?,Meyasa aka ɗauki wannan hoton?
+5734,2360464,What is the building made of?,Dame akayi gidan?
+1585,2364241,What is yellow?,Menene mai launin rawaya?
+3234,2320169,What color are they?,Wani launi ne su?
+4347,2358468,A shadow.,Inuwa.
+6684,2353308,How many No Entry signs are visible?,Alamar baa shiga guda nawa ake gani?
+4025,2411542,Umbrellas.,Lema.
