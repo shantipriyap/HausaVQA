@@ -5,8 +5,7 @@ This repository contains baseline code for the Hausa Visual Question Answer (Hau
 * [Text-Only Machine Translation (T2T)](https://github.com/shantipriyap/HausaVQA/tree/main/T2T)
 * [Multimodal Machine Translation (MMT)](https://github.com/shantipriyap/HausaVQA/tree/main/MMT)
 * [Image Captioning (IC)](https://github.com/shantipriyap/HausaVQA/tree/main/IC)
-* [Question Answering (QA)](https://github.com/shantipriyap/HausaVQA/tree/main/QA)
-* [Visual Question Answering (VQA)](https://github.com/shantipriyap/HausaVQA/tree/main/VQA)
+* * [Visual Question Answering (VQA)](https://github.com/shantipriyap/HausaVQA/tree/main/VQA)
 
 
 ## Contributors
