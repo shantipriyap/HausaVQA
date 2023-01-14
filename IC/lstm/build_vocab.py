@@ -51,7 +51,7 @@ def build_vocab(json, threshold):
     text = text.split('\n')
     num_lines = len(text)
     #process_lines = 300000
-    process_lines = 32923
+    process_lines = 35924
     print('no. of lines:', num_lines)
 
     #for sentences in tqdm(text.split('\n'), desc='build vocabulary', unit=' sentences'):
