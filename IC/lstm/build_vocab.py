@@ -1,5 +1,5 @@
 ###################################################
-# Build vocabulary for Hindi Visual Genome Dataset
+# Build vocabulary using Hausa Visual Genome Dataset
 ##################################################
 import nltk
 import pickle
@@ -51,7 +51,7 @@ def build_vocab(json, threshold):
     text = text.split('\n')
     num_lines = len(text)
     #process_lines = 300000
-    process_lines = 328930
+    process_lines = 32923
     print('no. of lines:', num_lines)
 
     #for sentences in tqdm(text.split('\n'), desc='build vocabulary', unit=' sentences'):
@@ -97,12 +97,7 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--caption_path', type=str,
-                        #default='data/hindi-visual-genome-11/hindi-visual-genome-train.txt',
-                        #default='/idiap/temp/sparida/wat2021_bak1_20Apr/data/hindi-visual-genome-11/hindi-visual-genome-train.txt',
-                        #default='/idiap/temp/sparida/Data/iitb/parallel/IITB.en-hi.hi',
-                        default='iitb_hvg.hi',
-                        #MVG
-                        #default='/idiap/temp/sparida/Data/mvg/malayalam-visual-genome-train.txt',
+                        default='/home/jupyter/HausaVQA/IC/lstm/data/havg.ha',
                         help='path for train annotation file')
     parser.add_argument('--vocab_path', type=str, default='expt/vocab.pkl',
                         help='path for saving vocabulary wrapper')
