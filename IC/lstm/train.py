@@ -176,10 +176,10 @@ if __name__ == '__main__':
                         #default='/Users/subhadarshi/Downloads/wat-20210417T154726Z-001/wat/resnet50/l3',
                         #default='/idiap/temp/sparida/wat2021_bak/wat/resnet50/l3',
                         #VGG features
-                        default='/idiap/temp/kkotwal/wat/vgg19/',
+                        default='/data/resnet50/',
                         help='directory for image features')
     #parser.add_argument('--caption_path', type=str, default='data/hindi-visual-genome-11',
-    parser.add_argument('--caption_path', type=str, default='/idiap/temp/sparida/wat2021_bak1_20Apr/data/hindi-visual-genome-11',
+    parser.add_argument('--caption_path', type=str, default='/data/',
     #MVG
     #parser.add_argument('--caption_path', type=str, default='/idiap/temp/sparida/Data/mvg',
                         help='path for captions')
