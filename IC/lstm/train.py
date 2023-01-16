@@ -15,8 +15,8 @@ from torch.nn.utils.rnn import pack_padded_sequence
 
 from build_vocab import Vocabulary
 from data_loader import get_loader
-from wat.caption import LSTMDecoder
-from wat.utils import init_logger
+from caption import LSTMDecoder
+from utils import init_logger
 
 #------------------------------------------------------------------------------
 
@@ -173,15 +173,10 @@ if __name__ == '__main__':
     parser.add_argument('--crop_size', type=int, default=224, help='size for randomly cropping images')
     parser.add_argument('--vocab_path', type=str, default='expt/vocab.pkl', help='path for vocabulary wrapper')
     parser.add_argument('--image_dir', type=str,
-                        #default='/Users/subhadarshi/Downloads/wat-20210417T154726Z-001/wat/resnet50/l3',
-                        #default='/idiap/temp/sparida/wat2021_bak/wat/resnet50/l3',
-                        #VGG features
+                        #Resnet features
                         default='/data/resnet50/',
                         help='directory for image features')
-    #parser.add_argument('--caption_path', type=str, default='data/hindi-visual-genome-11',
     parser.add_argument('--caption_path', type=str, default='/data/',
-    #MVG
-    #parser.add_argument('--caption_path', type=str, default='/idiap/temp/sparida/Data/mvg',
                         help='path for captions')
     parser.add_argument('--log_step', type=int, default=1, help='step size for prining log info')
     parser.add_argument('--save_step', type=int, default=226, help='step size for saving trained models')
