@@ -159,7 +159,7 @@ def main(args):
         val_loss.append(val_epoch_loss)
 
     logger.info(f'saving final checkpoint to decoder-final.ckpt..')
-    torch.save(decoder.state_dict(), os.path.join(args.model_path, 'decoder-final-mvg.ckpt'))
+    torch.save(decoder.state_dict(), os.path.join(args.model_path, 'decoder-final-ha.ckpt'))
 
     np.savetxt('/expt/log/train_loss_epoch.txt', np.array(train_loss), delimiter=',')
     np.savetxt('/expt/log/val_loss_epoch.txt', np.array(val_loss), delimiter=',')
