@@ -134,7 +134,7 @@ class HausaVQA(Dataset):
 
 
 class HausaVQAWithImageFeatures(Dataset):
-    """Dataset for Hindi Visual Genome with image features."""
+    """Dataset for HausaVQA with image features."""
 
     def __init__(
             self,
@@ -177,7 +177,7 @@ class HausaVQAWithImageFeatures(Dataset):
     def __getitem__(self, idx):
 
         # Convert caption (string) to word ids.
-        caption = self.df['hi'][self.sane_ids[idx]]
+        caption = self.df['ha'][self.sane_ids[idx]]
         tokens = nltk.tokenize.word_tokenize(str(caption).lower())
         caption = [self.vocab('<start>')]
         caption.extend([self.vocab(token) for token in tokens])

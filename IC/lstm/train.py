@@ -118,13 +118,13 @@ def main(args):
     #------------------------------------------------------------------------------
 
     # Build data loaders
-    train_image_dir = os.path.join(args.image_dir, 'train')
+    train_image_dir = os.path.join(args.image_dir, '')
     train_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-train.txt')
 
     train_loader = get_loader(train_image_dir, train_caption_path, vocab,\
         args.batch_size, shuffle=True, num_workers=args.num_workers)
 
-    dev_image_dir = os.path.join(args.image_dir, 'dev')
+    dev_image_dir = os.path.join(args.image_dir, '')
     dev_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-dev.txt')
 
     dev_loader = get_loader(dev_image_dir, dev_caption_path, vocab,\
@@ -174,7 +174,7 @@ if __name__ == '__main__':
     parser.add_argument('--vocab_path', type=str, default='expt/vocab.pkl', help='path for vocabulary wrapper')
     parser.add_argument('--image_dir', type=str,
                         #Resnet features
-                        default='/data/resnet50/',
+                        default='/home/jupyter/HausaVQA/IC/lstm/data/resnet50/',
                         help='directory for image features')
     parser.add_argument('--caption_path', type=str, default='/data/',
                         help='path for captions')
