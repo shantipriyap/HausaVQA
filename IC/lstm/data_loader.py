@@ -9,7 +9,7 @@ import torch.utils.data as data
 from torch.nn.utils.rnn import pad_sequence
 
 from build_vocab import Vocabulary
-from dataset import HausaVQAWithImageFeatures
+from dataset.hausa_vqa import HausaVQAWithImageFeatures
 
 
 def collate_fn(batch):
