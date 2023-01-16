@@ -119,17 +119,13 @@ def main(args):
 
     # Build data loaders
     train_image_dir = os.path.join(args.image_dir, 'train')
-    train_caption_path = os.path.join(args.caption_path, 'hindi-visual-genome-train.txt')
-    #MVG
-    #train_caption_path = os.path.join(args.caption_path, 'malayalam-visual-genome-train.txt')
+    train_caption_path = os.path.join(args.caption_path, '/data/hausa-train.txt')
 
     train_loader = get_loader(train_image_dir, train_caption_path, vocab,\
         args.batch_size, shuffle=True, num_workers=args.num_workers)
 
     dev_image_dir = os.path.join(args.image_dir, 'dev')
-    dev_caption_path = os.path.join(args.caption_path, 'hindi-visual-genome-dev.txt')
-    #MVG
-    #dev_caption_path = os.path.join(args.caption_path, 'malayalam-visual-genome-dev.txt')
+    dev_caption_path = os.path.join(args.caption_path, '/data/hausa-dev.txt')
 
     dev_loader = get_loader(dev_image_dir, dev_caption_path, vocab,\
         args.batch_size, shuffle=False, num_workers=args.num_workers)
@@ -165,10 +161,8 @@ def main(args):
     logger.info(f'saving final checkpoint to decoder-final.ckpt..')
     torch.save(decoder.state_dict(), os.path.join(args.model_path, 'decoder-final-mvg.ckpt'))
 
-    #np.savetxt(os.path.join(args.log_file_path, 'train_loss_epoch.txt'), np.array(train_loss), delimiter=',')
-    np.savetxt('/idiap/temp/sparida/wat2021/log/train_loss_epoch.txt', np.array(train_loss), delimiter=',')
-    #np.savetxt(os.path.join(args.log_file_path, 'val_loss_epoch.txt'), np.array(val_loss), delimiter=',')
-    np.savetxt('/idiap/temp/sparida/wat2021/log/val_loss_epoch.txt', np.array(val_loss), delimiter=',')
+    np.savetxt('/expt/log/train_loss_epoch.txt', np.array(train_loss), delimiter=',')
+    np.savetxt('/expt/log/val_loss_epoch.txt', np.array(val_loss), delimiter=',')
 
 #------------------------------------------------------------------------------
 
