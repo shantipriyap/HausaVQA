@@ -1,1 +1,1 @@
-from .hindi_visual_genome import HindiVisualGenome, HindiVisualGenomeWithImageFeatures
+from .hausa_vqa import HausaVQA, HausaVQAWithImageFeatures
