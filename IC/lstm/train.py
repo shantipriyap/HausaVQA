@@ -119,13 +119,13 @@ def main(args):
 
     # Build data loaders
     train_image_dir = os.path.join(args.image_dir, 'train')
-    train_caption_path = os.path.join(args.caption_path, '/data/hausa-train.txt')
+    train_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-train.txt')
 
     train_loader = get_loader(train_image_dir, train_caption_path, vocab,\
         args.batch_size, shuffle=True, num_workers=args.num_workers)
 
     dev_image_dir = os.path.join(args.image_dir, 'dev')
-    dev_caption_path = os.path.join(args.caption_path, '/data/hausa-dev.txt')
+    dev_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-dev.txt')
 
     dev_loader = get_loader(dev_image_dir, dev_caption_path, vocab,\
         args.batch_size, shuffle=False, num_workers=args.num_workers)
