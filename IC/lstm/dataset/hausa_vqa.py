@@ -18,7 +18,7 @@ from tqdm import tqdm
 
 logging.getLogger(__name__)
 
-COLUMN_NAMES = ['id', 'image_idx', 'en', 'ha']
+COLUMN_NAMES = ['image_idx', 'en', 'ha']
 IMG_WIDTH, IMG_HEIGHT = 256, 256
 
 
@@ -144,7 +144,9 @@ class HausaVQAWithImageFeatures(Dataset):
             text_file=None,
             group='train',  # unused
             **kwargs):
-
+        #print("Inside Function HausaVQAWithImageFeatures")
+        #print("Image Directory:",image_directory)
+        #print("text_file:",text_file)
         self.vocab = vocab
         self.name = name
         self.group = group
@@ -152,19 +154,27 @@ class HausaVQAWithImageFeatures(Dataset):
         self.text_file = text_file
 
         # read text file
-        self.df = pd.read_csv(self.text_file, sep='\t', encoding='utf-8', header=None)
+        self.df = pd.read_csv(self.text_file, sep='\t+', encoding='utf-8', header=None)
         self.df.rename(columns={idx: name for idx, name in enumerate(COLUMN_NAMES)}, inplace=True)
         orig_data_size = len(self.df)
         sane_ids = []
         self.image_ids = {}
+        #print("df:",self.df.head())
         for idx, row in tqdm(self.df.iterrows(), desc='filter sane samples', total=len(self.df)):
+            #print("idx:",idx)
+            #print("row[column1]:",row[COLUMN_NAMES[0]])
             self.image_ids[idx] = row[COLUMN_NAMES[0]]
             is_sane_sample = True
+            #print("COUMN_NAMES[:-2]:",COLUMN_NAMES[:-2])
             for name in COLUMN_NAMES[:-2]:
+                #print("name:",name)
+                #exit(1)
                 is_sane_sample = is_sane_sample and not (row[name] != row[name]) and (
                         isinstance(row[name], int) or isinstance(row[name], float) or row[name].isnumeric())
+                #print("is_sane_sample:",is_sane_sample)
             is_sane_sample = is_sane_sample and os.path.isfile(
                 os.path.join(image_directory, f'{row[COLUMN_NAMES[0]]}.npy'))
+            #print("is_sane_sample:",is_sane_sample)
             if is_sane_sample:
                 sane_ids.append(idx)
 
@@ -173,11 +183,15 @@ class HausaVQAWithImageFeatures(Dataset):
             logging.info(f'{len(sane_ids)} out of {orig_data_size} samples are sane and considered')
         else:
             logging.info(f'all samples are sane and considered')
+        
+        
 
     def __getitem__(self, idx):
 
         # Convert caption (string) to word ids.
         caption = self.df['ha'][self.sane_ids[idx]]
+        #caption = self.df['ha']
+        #print("caption:",caption)
         tokens = nltk.tokenize.word_tokenize(str(caption).lower())
         caption = [self.vocab('<start>')]
         caption.extend([self.vocab(token) for token in tokens])
@@ -185,6 +199,7 @@ class HausaVQAWithImageFeatures(Dataset):
 
         # load image features
         image_features = self.load_image_features(self.image_ids[self.sane_ids[idx]])
+        #image_features = self.load_image_features(self.image_ids[idx])
 
         return {
             'i_feat': torch.from_numpy(image_features['i_feat']),

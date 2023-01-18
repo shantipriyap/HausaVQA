@@ -119,13 +119,13 @@ def main(args):
 
     # Build data loaders
     train_image_dir = os.path.join(args.image_dir, '')
-    train_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-train.txt')
+    train_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-train1.txt')
 
     train_loader = get_loader(train_image_dir, train_caption_path, vocab,\
         args.batch_size, shuffle=True, num_workers=args.num_workers)
 
     dev_image_dir = os.path.join(args.image_dir, '')
-    dev_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-dev.txt')
+    dev_caption_path = os.path.join(args.caption_path, '/home/jupyter/HausaVQA/IC/lstm/data/hausa-dev1.txt')
 
     dev_loader = get_loader(dev_image_dir, dev_caption_path, vocab,\
         args.batch_size, shuffle=False, num_workers=args.num_workers)
@@ -176,7 +176,7 @@ if __name__ == '__main__':
                         #Resnet features
                         default='/home/jupyter/HausaVQA/IC/lstm/data/resnet50/',
                         help='directory for image features')
-    parser.add_argument('--caption_path', type=str, default='/data/',
+    parser.add_argument('--caption_path', type=str, default='/expt/output/',
                         help='path for captions')
     parser.add_argument('--log_step', type=int, default=1, help='step size for prining log info')
     parser.add_argument('--save_step', type=int, default=226, help='step size for saving trained models')

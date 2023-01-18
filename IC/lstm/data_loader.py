@@ -14,8 +14,9 @@ from dataset.hausa_vqa import HausaVQAWithImageFeatures
 
 def collate_fn(batch):
     """Creates mini-batch tensors"""
+    print("batch:",batch)
     #this part of code changed to take part for whole image features with full sub image features
-    features = [torch.cat((0.5*sample['i_feat'], sample['s_feat']), dim=0) for sample in batch] 
+    features = [torch.cat((1.0*sample['i_feat'], sample['s_feat']), dim=0) for sample in batch] 
     #features = [torch.cat((sample['i_feat'], sample['s_feat']), dim=0) for sample in batch]
     #features = [sample['i_feat'] for sample in batch]
     features = torch.stack(features)
