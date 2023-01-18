@@ -1,7 +1,7 @@
 ############################################################################
 # This is the evaluation file for the HVG caption generation
 # Input the Evaluation and Challenge Test Set for output caption
-# Author: Shantipriya Parida (IDIAP), Subhadarshi Panda
+# Author: Shantipriya Parida (Silo AI, Finland)
 ############################################################################
 import argparse
 import logging
@@ -14,8 +14,8 @@ from tqdm import tqdm
 
 from build_vocab import Vocabulary
 from data_loader import get_loader
-from wat.caption import LSTMDecoder
-from wat.utils import init_logger
+from caption import LSTMDecoder
+from utils import init_logger
 
 logger = logging.getLogger(__name__)
 
@@ -85,32 +85,14 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--vocab_path', type=str, default='expt/vocab.pkl', help='path for vocabulary wrapper')
-    #parser.add_argument('--model_path', type=str, default='expt/models/decoder-final.ckpt',
-    #MVG
-    #parser.add_argument('--model_path', type=str, default='expt/models/decoder-final-mvg.ckpt',
-    parser.add_argument('--model_path', type=str, default='expt/models/decoder-50-226.ckpt',
-    #parser.add_argument('--model_path', type=str, default='expt/models/decoder-final.ckpt',
-    #parser.add_argument('--model_path', type=str, default='expt/models/decoder-best.ckpt',
+    parser.add_argument('--model_path', type=str, default='expt/models/decoder-final-ha.ckpt',
                         help='path to trained model')
     parser.add_argument('--image_dir', type=str,
-                        #default='/Users/subhadarshi/Downloads/wat-20210417T154726Z-001/wat/resnet50/l3/test', help='')
-                        #default='/idiap/temp/sparida/wat2021_bak/wat/resnet50/l3/challenge', help='')
-                        #default='/idiap/temp/sparida/wat2021_bak/wat/resnet50/l3/test', help='')
-                        #default='/idiap/temp/sparida/wat2021_bak/wat/resnet50/l3/challenge', help='')
-                        default='/idiap/temp/kkotwal/wat/vgg19/challenge', help='')
-                        #default='/idiap/temp/sparida/wat2021_bak/wat/resnet50/l3/train', help='')
-                        #default='/idiap/temp/sparida/wat2021_bak/wat/resnet50/l3/dev', help='')
+                        default='/home/jupyter/HausaVQA/IC/lstm/data/resnet50/', help='')
     parser.add_argument('--caption_path', type=str,
-                        #default='data/hindi-visual-genome-11/hindi-visual-genome-test.txt',
-                        default='/idiap/temp/sparida/wat2021_bak1_20Apr/data/hindi-visual-genome-11/hindi-visual-genome-challenge-test-set.txt',
-                        #default='/idiap/temp/sparida/wat2021_bak1_20Apr/data/hindi-visual-genome-11/hindi-visual-genome-train.txt',
-                        #default='/idiap/temp/sparida/wat2021_bak1_20Apr/data/hindi-visual-genome-11/hindi-visual-genome-dev.txt',
-                        #default='/idiap/temp/sparida/wat2021_bak1_20Apr/data/hindi-visual-genome-11/hindi-visual-genome-test.txt',
-                        #MVG
-                        #default='/idiap/temp/sparida/Data/mvg/malayalam-visual-genome-test.txt',
-                        #default='/idiap/temp/sparida/Data/mvg/malayalam-visual-genome-chtest.txt',
+                        default='/home/jupyter/HausaVQA/IC/lstm/data/hausa-test1.txt',
                         help='path to captions file')
-    parser.add_argument('--output_path', type=str, default='expt/test_out.txt', help='output file path')
+    parser.add_argument('--output_path', type=str, default='expt/output/test_out.txt', help='output file path')
 
     # Model parameters (should be same as parameters in train.py)
     parser.add_argument('--embed_size', type=int, default=256, help='dimension of word embedding vectors')

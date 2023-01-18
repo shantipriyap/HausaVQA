@@ -14,7 +14,6 @@ from dataset.hausa_vqa import HausaVQAWithImageFeatures
 
 def collate_fn(batch):
     """Creates mini-batch tensors"""
-    print("batch:",batch)
     #this part of code changed to take part for whole image features with full sub image features
     features = [torch.cat((1.0*sample['i_feat'], sample['s_feat']), dim=0) for sample in batch] 
     #features = [torch.cat((sample['i_feat'], sample['s_feat']), dim=0) for sample in batch]
@@ -30,8 +29,6 @@ def collate_fn(batch):
 def get_loader(image_dir, caption_path, vocab: Vocabulary, batch_size, shuffle, num_workers):
     """Returns data loader"""
 
-    print("image_dir:",image_dir)
-    print("caption_path:",caption_path)
     dataset = HausaVQAWithImageFeatures(
         vocab=vocab,
         image_directory=image_dir,

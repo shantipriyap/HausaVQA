@@ -144,9 +144,9 @@ class HausaVQAWithImageFeatures(Dataset):
             text_file=None,
             group='train',  # unused
             **kwargs):
-        #print("Inside Function HausaVQAWithImageFeatures")
-        #print("Image Directory:",image_directory)
-        #print("text_file:",text_file)
+        print("Inside Function HausaVQAWithImageFeatures")
+        print("Image Directory:",image_directory)
+        print("text_file:",text_file)
         self.vocab = vocab
         self.name = name
         self.group = group
@@ -159,22 +159,19 @@ class HausaVQAWithImageFeatures(Dataset):
         orig_data_size = len(self.df)
         sane_ids = []
         self.image_ids = {}
-        #print("df:",self.df.head())
         for idx, row in tqdm(self.df.iterrows(), desc='filter sane samples', total=len(self.df)):
-            #print("idx:",idx)
-            #print("row[column1]:",row[COLUMN_NAMES[0]])
             self.image_ids[idx] = row[COLUMN_NAMES[0]]
             is_sane_sample = True
-            #print("COUMN_NAMES[:-2]:",COLUMN_NAMES[:-2])
             for name in COLUMN_NAMES[:-2]:
-                #print("name:",name)
-                #exit(1)
+                print("name:",COLUMN_NAMES[:-2])
+                print("row[name]:",row[name])
+                print("df_size:",len(self.df))
                 is_sane_sample = is_sane_sample and not (row[name] != row[name]) and (
                         isinstance(row[name], int) or isinstance(row[name], float) or row[name].isnumeric())
-                #print("is_sane_sample:",is_sane_sample)
+                print("is_sane_sample:",is_sane_sample)
             is_sane_sample = is_sane_sample and os.path.isfile(
                 os.path.join(image_directory, f'{row[COLUMN_NAMES[0]]}.npy'))
-            #print("is_sane_sample:",is_sane_sample)
+            print("is_sane_sample:",is_sane_sample)
             if is_sane_sample:
                 sane_ids.append(idx)
 
@@ -190,8 +187,6 @@ class HausaVQAWithImageFeatures(Dataset):
 
         # Convert caption (string) to word ids.
         caption = self.df['ha'][self.sane_ids[idx]]
-        #caption = self.df['ha']
-        #print("caption:",caption)
         tokens = nltk.tokenize.word_tokenize(str(caption).lower())
         caption = [self.vocab('<start>')]
         caption.extend([self.vocab(token) for token in tokens])

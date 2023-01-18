@@ -22,22 +22,19 @@ class LSTMDecoder(nn.Module):
     def __init__(self, embed_size, hidden_size, vocab_size, num_layers, max_seq_length=20):
         """Set the hyper-parameters and build the layers."""
         super(LSTMDecoder, self).__init__()
-        print("embed_size:",embed_size)
-        print("vocab_size:",vocab_size)
-        print("hidden_size:",hidden_size)
-        print("num_layers:",num_layers)
         self.embed = nn.Embedding(vocab_size, embed_size)
         self.lstm = nn.LSTM(embed_size, hidden_size, num_layers, batch_first=True, dropout=0.3)
         self.linear = nn.Linear(hidden_size, vocab_size)
         self.max_seg_length = max_seq_length
         
         #self.img_fc = nn.Linear(1024, embed_size) # for L3: only s_feat
+        self.img_fc = nn.Linear(2049,embed_size) # for L3: only s_feat
         #self.img_fc = nn.Linear(2048 + 1024, embed_size) # for L3: s + i feat
         #self.img_fc = nn.Linear(2048 + 1024, embed_size) # for L3: s + i feat
         #self.img_fc = nn.Linear(2048 + 2048, embed_size) # for VGG19
 
         #self.img_fc = nn.Linear(2048, embed_size)  # for L4: only s_feat
-        self.img_fc = nn.Linear(2048 + 2048, embed_size) # for L4: s + i feat
+        #self.img_fc = nn.Linear(2048 + 2048, embed_size) # for L4: s + i feat
 
 
     def forward(self, features, captions, lengths):
