@@ -163,15 +163,15 @@ class HausaVQAWithImageFeatures(Dataset):
             self.image_ids[idx] = row[COLUMN_NAMES[0]]
             is_sane_sample = True
             for name in COLUMN_NAMES[:-2]:
-                print("name:",COLUMN_NAMES[:-2])
-                print("row[name]:",row[name])
-                print("df_size:",len(self.df))
+                #print("name:",COLUMN_NAMES[:-2])
+                #print("row[name]:",row[name])
+                #print("df_size:",len(self.df))
                 is_sane_sample = is_sane_sample and not (row[name] != row[name]) and (
                         isinstance(row[name], int) or isinstance(row[name], float) or row[name].isnumeric())
-                print("is_sane_sample:",is_sane_sample)
+                #print("is_sane_sample:",is_sane_sample)
             is_sane_sample = is_sane_sample and os.path.isfile(
                 os.path.join(image_directory, f'{row[COLUMN_NAMES[0]]}.npy'))
-            print("is_sane_sample:",is_sane_sample)
+            #print("is_sane_sample:",is_sane_sample)
             if is_sane_sample:
                 sane_ids.append(idx)
 

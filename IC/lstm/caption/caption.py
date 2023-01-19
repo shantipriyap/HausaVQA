@@ -28,7 +28,8 @@ class LSTMDecoder(nn.Module):
         self.max_seg_length = max_seq_length
         
         #self.img_fc = nn.Linear(1024, embed_size) # for L3: only s_feat
-        self.img_fc = nn.Linear(2049,embed_size) # for L3: only s_feat
+        #self.img_fc = nn.Linear(2049,embed_size) # for L3: only s_feat
+        self.img_fc = nn.Linear(2048,embed_size) # for L3: only s_feat
         #self.img_fc = nn.Linear(2048 + 1024, embed_size) # for L3: s + i feat
         #self.img_fc = nn.Linear(2048 + 1024, embed_size) # for L3: s + i feat
         #self.img_fc = nn.Linear(2048 + 2048, embed_size) # for VGG19
