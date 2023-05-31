@@ -11,7 +11,7 @@ This repository contains baseline code for the Hausa Visual Question Answer (Hau
 ## Contributors
 
 * Shantipriya Parida, Silo AI, Helsinki, Finland
-* Idris Abdulmumin, University, Zaria, Nigeria
+* Idris Abdulmumin, Ahmadu Bello University, Zaria, Nigeria
 * Shamsuddeen Hassan Muhammad, University of Porto, Portugal
 * Aneesh Bose, Microsoft, India
 * Guneet Singh Kohli, GreyOrange, India
@@ -19,7 +19,4 @@ This repository contains baseline code for the Hausa Visual Question Answer (Hau
 * Ketan Kotwal, Idiap Research Institute, Switzerland
 * Sayan Deb Sarkar, ETH Zurich, Switzerland
 * Ondřej Bojar, UFAL, Charles University, Prague, Czech Republic
-* Habeebah Adamu Kakudi, Bayero University, Kano, Nigeria   
-
-
-
+* Habeebah Adamu Kakudi, Bayero University, Kano, Nigeria
