@@ -20,3 +20,17 @@ This repository contains baseline code for the Hausa Visual Question Answer (Hau
 * Sayan Deb Sarkar, ETH Zurich, Switzerland
 * Ondřej Bojar, UFAL, Charles University, Prague, Czech Republic
 * Habeebah Adamu Kakudi, Bayero University, Kano, Nigeria
+
+
+### Citation Information
+
+If you find this helpful repository, please consider giving ⭐ and citing:
+
+```
+@article{parida2023havqa,
+  title={HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language},
+  author={Parida, Shantipriya and Abdulmumin, Idris and Muhammad, Shamsuddeen Hassan and Bose, Aneesh and Kohli, Guneet Singh and Ahmad, Ibrahim Said and Kotwal, Ketan and Sarkar, Sayan Deb and Bojar, Ond{\v{r}}ej and Kakudi, Habeebah Adamu},
+  journal={arXiv preprint arXiv:2305.17690},
+  year={2023}
+}
+```
